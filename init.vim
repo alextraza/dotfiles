@@ -341,6 +341,7 @@ set linebreak                           " перенос по словам
 "set showbreak=                         " Показывать символ на месте переноса
 set showbreak=↪\ 
 set ignorecase                          " игнорировать написание при поиске
+set title                               " Установить заголовок окна
 set smartcase                           " учитывать регисть если с большой буквы
 
 " }
@@ -352,6 +353,14 @@ vmap <Leader>y :w! ~/.vbuf<CR>
 nmap <Leader>y :.w! ~/.vbuf<CR>
 " "paste the contents of the buffer file
 nmap <Leader>p :r ~/.vbuf<CR>
+
+" Better command line editing
+cnoremap <C-j> <Down>
+cnoremap <C-k> <Up>
+cnoremap <C-h> <Left>
+cnoremap <C-l> <Right>
+cnoremap <C-a> <Home>
+cnoremap <C-e> <End>
 
 " Перемещение между окнами
 map <C-k> <C-w>k
@@ -397,4 +406,11 @@ autocmd BufWinEnter * match ExtraWhitespace /\s\+$/
 autocmd InsertEnter * match ExtraWhitespace /\s\+\%#\@<!$/
 autocmd InsertLeave * match ExtraWhitespace /\s\+$/
 autocmd BufWinLeave * call clearmatches()
+
+
+set guioptions-=T
+    set guioptions-=m
+    set guioptions+=LlRrb " bug?
+    set guioptions-=LlRrb
+    "set guifont=monospace\ 9 " Way better than monospace
 
