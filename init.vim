@@ -270,10 +270,21 @@ let g:SuperTabDefaultCompletionType = "<c-x><c-o>"
 let g:SuperTabMappingForward = '<c-space>'
 
 """"""""""""""""""""""""""""""""""""""""""
+" подстветки синтаксиса
+"
+""""""""""""""""""""""""""""""""""""""""""
 Plug 'StanAngeloff/php.vim'
 Plug 'pangloss/vim-javascript'
 
-" Call PlugInstall to install new plugins
+""""""""""""""""""""""""""""""""""""""""""
+" окружение скобками, ковычками и т.д.
+"
+""""""""""""""""""""""""""""""""""""""""""
+Plug 'tpope/vim-surround'
+
+autocmd FileType php let b:surround_45 = "<?php \r ?>"
+""""""""""""""""""""""""""""""""""""""""""
+" Call PlugInstall to insttpope/vim-surroundall new plugins
 call plug#end()
 
 " Основные настройки {
@@ -318,6 +329,7 @@ colorscheme gotham                      " Цветовая схема
 set number                              " Включение номеров страниц
 set rnu                                 " номера сторок отсчитываются вверх/низ от текущей
 set cursorline                          " Подветка текущей строки
+set lazyredraw                          " убирает прорисовку, убирая тормоза
 set mousemodel=popup                    " разрешить контекстное меню
 set cpoptions+=$                        " показывает что заменяется
 set showmatch                           " показывает совпадающие кавычки, скобки
