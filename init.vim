@@ -88,6 +88,13 @@ autocmd StdinReadPre * let s:std_in=1
 autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
 " Разрешить показ закладок
 let NERDTreeShowBookmarks=1
+au FileType NERDTree set nolist
+
+""""""""""""""""""""""""""""""""""""""""""
+" отображает git статус в nerdtree
+"
+""""""""""""""""""""""""""""""""""""""""""
+Plug 'Xuyuanp/nerdtree-git-plugin'
 
 """"""""""""""""""""""""""""""""""""""""""
 " отображает активные буферы
@@ -264,6 +271,7 @@ let g:SuperTabMappingForward = '<c-space>'
 
 """"""""""""""""""""""""""""""""""""""""""
 Plug 'StanAngeloff/php.vim'
+Plug 'pangloss/vim-javascript'
 
 " Call PlugInstall to install new plugins
 call plug#end()
@@ -271,9 +279,9 @@ call plug#end()
 " Основные настройки {
 
 filetype plugin on
-set omnifunc=syntaxcomplete#Complete
-
+filetype indent on
 filetype plugin indent on               " автоматическое определение типа файла
+set omnifunc=syntaxcomplete#Complete
 syntax on                               " Включение подстветки синтаксиса
 set mouse=a                             " разрешение мыши
 "set virtualedit=all                    " разрешить курсору перемещаться дальше текста
@@ -308,6 +316,7 @@ autocmd FileType c,cpp,java,php,javascript,python,twig,xml,yml,phtml,css autocmd
 "set termguicolors
 colorscheme gotham                      " Цветовая схема
 set number                              " Включение номеров страниц
+set rnu                                 " номера сторок отсчитываются вверх/низ от текущей
 set cursorline                          " Подветка текущей строки
 set mousemodel=popup                    " разрешить контекстное меню
 set cpoptions+=$                        " показывает что заменяется
@@ -338,6 +347,7 @@ map <C-j> <C-w>j
 map <C-l> <C-w>l
 map <C-h> <C-w>h
 map <C-m> <C-w>m                        " скрыть остальные окна
+imap jj <esc>                           " выходить из insert по jj
 
 " Easier copy/paste
 map <leader>v "+gP
