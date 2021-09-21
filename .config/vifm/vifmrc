@@ -260,7 +260,7 @@ filextype *.bmp,*.jpg,*.jpeg,*.png,*.gif,*.xpm
         \ feh %d &,
         \ {View in cacaview}
         \ cacaview %c &,
-fileviewer *.bmp,*.jpg,*.jpeg,*.png,*.xpm
+fileviewer <image/*>
         \ vifmimg draw %px %py %pw %ph %c
         \ %pc
         \ vifmimg clear
