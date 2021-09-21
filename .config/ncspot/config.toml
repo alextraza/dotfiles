@@ -1,0 +1,40 @@
+notify = true
+volnorm = true
+use_nerdfont = false
+
+# default_keybindings = false
+
+[keybindings]
+"gg" = "move top"
+"G" = "move bottom"
+" " = "playpause"
+"q" = "back"
+"Shift+q" = "quit"
+"n" = "next"
+"p" = "previous"
+"y" = "queue"
+"w" = "seek +10000"
+"b" = "seek -10000"
+"Ctrl+d" = "move down 5"
+"Ctrl+u" = "move up 5"
+"." = "move playing"
+
+[saved_state]
+shuffle = true
+
+[theme]
+background = "black"
+primary = "light white"
+secondary = "light black"
+title = "green"
+playing = "green"
+playing_bg = "black"
+highlight = "light white"
+highlight_bg = "#484848"
+error = "light white"
+error_bg = "red"
+statusbar = "black"
+statusbar_progress = "green"
+statusbar_bg = "green"
+cmdline = "light white"
+cmdline_bg = "black"

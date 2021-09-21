@@ -1,0 +1,2123 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/alextraza/
+	..
+1567389751
+'a
+	/home/alextraza/.emacs.d
+	auto-save-list
+1568462041
+'b
+	/home/alextraza/bin/
+	..
+1567389751
+'c
+	/home/alextraza
+	.emacs.d
+1568785244
+'e
+	/home/alextraza
+	.emacs.d
+1568785247
+'h
+	/home/alextraza/
+	..
+1567389751
+'k
+	/home/alextraza/.emacs.d
+	custom.el
+1568463172
+'w
+	/home/alextraza/temp/work
+	viber.svg
+1569345075
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/alextraza/work/perila/engine
+	frontend
+5
+d/home/alextraza/work/perila
+	engine
+5
+d/home/alextraza/work
+	prommarket
+16
+d/home/alextraza/work/prommarket
+	engine
+3
+d/home/alextraza/work/prommarket/engine
+	backend
+1
+d/home/alextraza/work/prommarket/engine/backend
+	components
+4
+d/home/alextraza/work/prommarket/engine/backend/components
+	import
+1
+d/home/alextraza/work/prommarket/engine/backend/components/import
+	current
+6
+d/home/alextraza/work/prommarket/engine/backend/components
+	import
+1
+d/home/alextraza/work/prommarket/engine/backend
+	components
+4
+d/home/alextraza/work/prommarket/engine
+	backend
+1
+d/home/alextraza/work/prommarket/engine/backend
+	controllers
+6
+d/home/alextraza/work/prommarket/engine/backend/controllers
+	ImportController.php
+7
+d/home/alextraza/work/prommarket/engine/backend
+	controllers
+6
+d/home/alextraza/work/prommarket/engine
+	backend
+1
+d/home/alextraza/work/prommarket
+	engine
+3
+d/home/alextraza/work
+	prommarket
+16
+d/home/alextraza
+	Dropbox
+4
+d/home/alextraza/Dropbox
+	archive
+7
+d/home/alextraza/Dropbox/archive
+	ToDo.org
+4
+d/home/alextraza/Dropbox
+	archive
+7
+d/home/alextraza
+	temp
+14
+d/home/alextraza/temp
+	work
+15
+d/home/alextraza/temp/work
+	glyphter-font.zip
+16
+d/home/alextraza/.local/share/vifm/fuse/001_glyphter-font.zip
+	fonts
+2
+d/home/alextraza/.local/share/vifm/fuse/001_glyphter-font.zip/fonts
+	Glyphter.eot
+1
+d/home/alextraza/.local/share/vifm/fuse/001_glyphter-font.zip
+	fonts
+2
+d/home/alextraza/.local/share/vifm/fuse
+	001_glyphter-font.zip
+1
+d/home/alextraza/.local/share/vifm
+	fuse
+2
+d/home/alextraza/.local/share
+	vifm
+45
+d/home/alextraza/.local
+	share
+1
+d/home/alextraza
+	.local
+4
+d/home
+	alextraza
+1
+d/
+	srv
+14
+d/srv
+	http
+2
+d/srv/http
+	study
+37
+d/srv/http/study
+	storage
+9
+d/srv/http/study/storage
+	framework
+2
+d/srv/http/study
+	..
+0
+d/srv/http
+	study
+20
+d/srv
+	http
+2
+d/
+	home
+4
+d/home
+	alextraza
+2
+d/home/alextraza
+	.xmonad
+4
+d/home/alextraza/.xmonad
+	..
+0
+d/home/alextraza
+	.xmonad
+4
+d/home/alextraza/.xmonad
+	xpm
+1
+d/home/alextraza
+	.xmonad
+4
+d/home/alextraza/.xmonad
+	xpm
+1
+d/home/alextraza/.xmonad/xpm
+	..
+0
+d/home/alextraza/.xmonad
+	xpm
+1
+d/home/alextraza
+	.xmonad
+4
+d/home/alextraza/.xmonad
+	xpm
+1
+d/home/alextraza/.xmonad/xpm
+	..
+0
+d/home/alextraza/.xmonad
+	xpm
+1
+d/home/alextraza/.xmonad/xpm
+	..
+0
+d/home/alextraza/.xmonad
+	..
+0
+d/home/alextraza
+	.xmonad
+50
+d/home/alextraza/.xmonad
+	..
+0
+d/home/alextraza
+	.w3m
+48
+d/home/alextraza/.w3m
+	..
+0
+d/home/alextraza
+	.xmonad
+46
+d/home/alextraza/.xmonad
+	xmonad.errors
+1
+d/home/alextraza
+	.xmonad
+16
+d/home/alextraza/.xmonad
+	xmonad.errors
+1
+d/home/alextraza
+	.xmonad
+16
+d/home
+	alextraza
+2
+d/home/alextraza
+	.config
+4
+d/home/alextraza/.config
+	polybar
+16
+d/home/alextraza/.config/polybar
+	..
+0
+d/home/alextraza/.config
+	..
+0
+d/home/alextraza
+	.xmonad
+53
+d/home/alextraza/.xmonad
+	..
+0
+d/home/alextraza
+	.xmonad
+53
+d/home/alextraza/.xmonad
+	..
+0
+d/home/alextraza
+	.config
+9
+d/home/alextraza/.config
+	xmonad
+56
+d/home/alextraza/.config/xmonad
+	xmonad.hs
+2
+d/home/alextraza/.config
+	Dharkael
+1
+d/home/alextraza
+	.xmonad
+4
+d/home/alextraza/.xmonad
+	..
+0
+d/home/alextraza
+	.swp
+4
+d/home
+	alextraza
+2
+d/
+	usr
+17
+d/usr
+	share
+8
+d/usr/share
+	doc
+51
+d/usr/share/doc
+	xmonad
+51
+d/usr/share/doc/xmonad
+	..
+0
+d/usr/share/doc
+	zbar
+55
+d/usr/share
+	doc
+51
+d/usr
+	local
+6
+d/usr/local
+	share
+8
+d/usr/local/share
+	man
+1
+d/usr/local
+	share
+8
+d/usr
+	local
+6
+d/
+	home
+4
+d/home
+	alextraza
+2
+d/home/alextraza
+	.xmonad
+13
+d/home/alextraza/.xmonad
+	..
+0
+d/home/alextraza
+	.xmonad
+13
+d
+
+# Right window history (oldest to newest):
+D/home/alextraza/work/sprava/engine/common
+	config
+5
+D/home/alextraza/work/sprava/engine/common/config
+	main-local.php
+3
+D/home/alextraza/work/sprava/engine/common
+	config
+5
+D/home/alextraza/work/sprava/engine
+	common
+2
+D/home/alextraza/work/sprava
+	engine
+2
+D/home/alextraza/work
+	magic-hotel
+4
+D/home/alextraza/work/magic-hotel
+	engine
+3
+D/home/alextraza/work/magic-hotel/engine
+	common
+2
+D/home/alextraza/work/magic-hotel/engine/common
+	config
+5
+D/home/alextraza/work/magic-hotel/engine/common/config
+	main-local.php
+3
+D/home/alextraza/work/magic-hotel/engine/common
+	config
+5
+D/home/alextraza/work/magic-hotel/engine
+	common
+2
+D/home/alextraza/work/magic-hotel
+	engine
+3
+D/home/alextraza/work
+	magic-hotel
+4
+D/home/alextraza
+	vbox
+13
+D/home/alextraza/vbox
+	debian
+1
+D/home/alextraza
+	work
+14
+D/home/alextraza/work
+	radugazatoka
+16
+D/home/alextraza
+	work
+14
+D/home
+	alextraza
+1
+D/
+	srv
+14
+D/srv
+	http
+2
+D/srv/http
+	study
+11
+D/srv/http/study
+	routes
+8
+D/srv/http/study/routes
+	..
+0
+D/srv/http/study
+	..
+0
+D/srv/http
+	agroexport
+1
+D/srv/http/agroexport
+	..
+0
+D/srv/http
+	agrofermer
+2
+D/srv
+	http
+2
+D/
+	home
+4
+D/home
+	alextraza
+1
+D/home/alextraza
+	build
+6
+D/home/alextraza/build
+	dbase
+1
+D/home/alextraza/build/dbase
+	dbase.c
+17
+D/home/alextraza/build
+	dbase
+1
+D/home/alextraza
+	build
+6
+D/home/alextraza/build
+	dbase
+1
+D/home/alextraza
+	build
+8
+D/home/alextraza/build
+	pianobarfly
+1
+D/home/alextraza
+	.doom.d
+4
+D/home/alextraza/.doom.d
+	..
+0
+D/home/alextraza
+	.emacs.d
+11
+D/home/alextraza/.emacs.d
+	init.example.el
+15
+D/home/alextraza
+	.emacs.d
+11
+D/home
+	alextraza
+1
+D/home/alextraza
+	Music
+16
+D/home/alextraza/Music
+	m4a
+1
+D/home/alextraza/Music/m4a
+	Bon_Jovi
+9
+D/home/alextraza/Music/m4a/Bon_Jovi
+	Cross_Road
+1
+D/home/alextraza/Music/m4a/Bon_Jovi/Cross_Road
+	Bon_Jovi-Livin_On_A_Prayer.m4a
+1
+D/home/alextraza/Music/m4a/Bon_Jovi
+	Cross_Road
+1
+D/home/alextraza/Music/m4a
+	Bon_Jovi
+9
+D/home/alextraza/Music
+	m4a
+1
+D/home/alextraza
+	Music
+16
+D/home
+	alextraza
+1
+D/
+	etc
+3
+D/etc
+	default
+23
+D/etc/default
+	grub
+2
+D/etc
+	default
+16
+D/
+	home
+4
+D/home
+	alextraza
+1
+D/home/alextraza
+	Music
+15
+D/home/alextraza/Music
+	m4a
+1
+D/home/alextraza/Music/m4a
+	The_HU_(Mongolia)
+13
+D/home/alextraza/Music/m4a/The_HU_(Mongolia)
+	Shoog_Shoog_(Single)
+1
+D/home/alextraza/Music/m4a/The_HU_(Mongolia)/Shoog_Shoog_(Single)
+	..
+0
+D/home/alextraza/Music/m4a/The_HU_(Mongolia)
+	The_Gereg
+2
+D/home/alextraza/Music/m4a/The_HU_(Mongolia)/The_Gereg
+	..
+0
+D/home/alextraza/Music/m4a/The_HU_(Mongolia)
+	Wolf_Totem_(Single)
+3
+D/home/alextraza/Music/m4a/The_HU_(Mongolia)/Wolf_Totem_(Single)
+	..
+0
+D/home/alextraza/Music/m4a/The_HU_(Mongolia)
+	Wolf_Totem_(Single)
+3
+D/home/alextraza/Music/m4a/The_HU_(Mongolia)/Wolf_Totem_(Single)
+	..
+0
+D/home/alextraza/Music/m4a/The_HU_(Mongolia)
+	The_Gereg
+2
+D/home/alextraza/Music/m4a/The_HU_(Mongolia)/The_Gereg
+	The_HU_(Mongolia)-The_Great_Chinggis_Khaan.m4a
+1
+D/home/alextraza/Music/m4a/The_HU_(Mongolia)
+	The_Gereg
+2
+D/home/alextraza/Music/m4a
+	The_HU_(Mongolia)
+39
+D/home/alextraza/Music
+	m4a
+1
+D/home/alextraza
+	win32
+29
+D/home/alextraza/win32
+	drive_c
+2
+D/home/alextraza/win32/drive_c
+	Program Files
+1
+D/home/alextraza/win32/drive_c/Program Files
+	R.G. Mechanics
+8
+D/home/alextraza/win32/drive_c
+	ProgramData
+2
+D/home/alextraza/win32/drive_c/ProgramData
+	..
+0
+D/home/alextraza/win32/drive_c
+	ProgramData
+2
+D/home/alextraza/win32/drive_c/ProgramData
+	Microsoft
+1
+D/home/alextraza/win32/drive_c/ProgramData/Microsoft
+	..
+0
+D/home/alextraza/win32/drive_c/ProgramData
+	Steam
+2
+D/home/alextraza/win32/drive_c/ProgramData/Steam
+	Decepticon
+1
+D/home/alextraza/win32/drive_c/ProgramData/Steam/Decepticon
+	213670
+1
+D/home/alextraza/win32/drive_c/ProgramData/Steam/Decepticon/213670
+	..
+0
+D/home/alextraza/win32/drive_c/ProgramData/Steam/Decepticon
+	213670
+1
+D/home/alextraza/win32/drive_c/ProgramData/Steam
+	Decepticon
+1
+D/home/alextraza/win32/drive_c/ProgramData
+	Steam
+2
+D/home/alextraza/win32/drive_c
+	users
+3
+D/home/alextraza/win32
+	..
+0
+D/home/alextraza
+	.config
+4
+D/home/alextraza/.config
+	xmonad
+12
+D/home/alextraza/.config/xmonad
+	xmonad.hs
+2
+D/home/alextraza/.config
+	
+0
+D
+
+# Command line history (oldest to newest):
+:alink
+:! ~/.emacs.d/bin/doom install
+:colorscheme solarized-dark
+:colorscheme dragula
+:colorscheme dracula
+:colorscheme desert
+:colorscheme astrell
+:colorscheme darkdesert
+:colorscheme Default
+:colorscheme g80
+:colorscheme iceberg
+:colorscheme lucius
+:colorscheme matrix
+:colorscheme molokai
+:colorscheme near-default
+:colorscheme ph
+:colorscheme semidarkdesert
+:colorscheme snowwhite
+:colorscheme zenburn
+:colorscheme zenburn_1
+:wq
+:sync
+:touch init.el
+:!emacs init.el
+:touch custom.el
+:mkdir lisp
+:cop
+:co
+:cope
+:copy
+:emacs FAQ
+:!emacs FAQ
+:mkdir web-mode
+:touch foreach
+:mkdir bin
+:touch php_class_finder.php
+:touch php_resolve_namespace.php
+:chmod +x
+:!git clone https://github/hlissner/doom-emacs ~/.emacs.d
+:!git clone https://github.com/hlissner/doom-emacs ~/.emacs.d
+:!make install
+:! sudo rm -rf resolve/
+:!git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
+:mkdir archive
+:touch .profile
+:git status
+:touch ParseContent.php
+:touch php-doc-block.el
+:touch calendar.svg
+:cd ~
+:git clone https://github.com/abdulawal39/ZipCF.git
+: git clone https://github.com/abdulawal39/ZipCF.git
+:!git clone https://github.com/abdulawal39/ZipCF.git
+:cmod 777
+:chmod 777
+:! git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
+:!git status
+:touch chevron-up.svg
+:! inkscape chevron-up.svg
+:touch .gitignore
+:mkdir perilaTheme
+:touch _expo.php
+:mkdir deploy
+:touch Widget.php
+:!emacs %c
+:touch file.php
+:w
+:touch .projectile
+:cmod 666
+:chmod 666
+:mkdir linport
+:touch index.php
+:mkdir import
+:touch Importer.php
+:sh
+:touch clock.svg
+:chmod -R 777
+:mkdir
+:mkdir .xmonad
+:.,.+1q
+:q
+
+# Search history (oldest to newest):
+/xm
+/spo
+/termil
+/termin
+/con
+/doth
+/tin
+/powerli
+/per
+/des
+/publ
+/solai
+/fish
+/bash
+/profi
+/pere
+/emacs
+/extra
+/php-jj
+/php
+/emac
+/temp
+/gruv
+/doom
+/work
+/mu
+/lin
+/ac
+/nir
+/red
+/saund
+/peri
+/ema
+/space
+/.conf
+/ico
+/.con
+/vif
+/arch
+/tem
+/wor
+/pian
+/http
+/htt
+/config
+/com
+/bin
+/conf
+/vifm
+/site
+/gly
+/def
+/xmoonad
+/confi
+/poly
+/do
+/xmo
+
+# Prompt history (oldest to newest):
+phhgrep.php
+ppublic_html
+pemacs.d
+p.emacs
+p.emacs_old
+pdefuns-php.el
+p.emacs.d-powered
+p.emacs.doom
+p.emacs.d-
+p.emacs.d-old
+p.emacs.d-space
+pfirsts
+plist.txtt
+pfirst
+plist.txt
+p04_01.jpg
+p04_011.jpg
+p04_012.jpg
+pphp-doc.el
+pFileController.php
+plabel.txt
+p.emacs.d-doom
+p.emacs.d
+pconf
+pn
+powl.jss
+powl.js
+powl.csss
+powl.css
+pGlyphter.eot
+pglyphter.eot
+pglyphter.svg
+pglyphter.ttf
+pglyphter.woff
+p.env
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/alextraza/.local/share/vifm/Trash/001_xmonad-x86_64-linux
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/alextraza/.local/share/vifm/Trash/000_LiqPay.php
+	/home/alextraza/share/LiqPay.php
+t/home/alextraza/.local/share/vifm/Trash/000_export.xml
+	/home/alextraza/public_html/export.xml
+t/home/alextraza/.local/share/vifm/Trash/000_.emacs.d
+	/home/alextraza/.emacs.d
+t/home/alextraza/.local/share/vifm/Trash/000_auto-save-list
+	/home/alextraza/.emacs.d/auto-save-list
+t/home/alextraza/.local/share/vifm/Trash/000_elpa
+	/home/alextraza/.emacs.d/elpa
+t/home/alextraza/.local/share/vifm/Trash/000_eshell
+	/home/alextraza/.emacs.d/eshell
+t/home/alextraza/.local/share/vifm/Trash/000_evil-rebellion
+	/home/alextraza/.emacs.d/evil-rebellion
+t/home/alextraza/.local/share/vifm/Trash/000_lisp
+	/home/alextraza/.emacs.d/lisp
+t/home/alextraza/.local/share/vifm/Trash/000_snippets
+	/home/alextraza/.emacs.d/snippets
+t/home/alextraza/.local/share/vifm/Trash/000_themes
+	/home/alextraza/.emacs.d/themes
+t/home/alextraza/.local/share/vifm/Trash/000_custom.el
+	/home/alextraza/.emacs.d/custom.el
+t/home/alextraza/.local/share/vifm/Trash/000_init.el
+	/home/alextraza/.emacs.d/init.el
+t/home/alextraza/.local/share/vifm/Trash/000_markdown-preview-template.html
+	/home/alextraza/.emacs.d/markdown-preview-template.html
+t/home/alextraza/.local/share/vifm/Trash/000_network-security.data
+	/home/alextraza/.emacs.d/network-security.data
+t/home/alextraza/.local/share/vifm/Trash/000_projectile-bookmarks.eld
+	/home/alextraza/.emacs.d/projectile-bookmarks.eld
+t/home/alextraza/.local/share/vifm/Trash/000_.emacs~
+	/home/alextraza/.emacs~
+t/home/alextraza/.local/share/vifm/Trash/000_ac-comphist.dat
+	/home/alextraza/.emacs.d/ac-comphist.dat
+t/home/alextraza/.local/share/vifm/Trash/000_init-utils.el
+	/home/alextraza/.emacs.d/init-utils.el
+t/home/alextraza/.local/share/vifm/Trash/000_powerline-evil.elc
+	/home/alextraza/.emacs.d/elpa/powerline-evil-20190603.340/powerline-evil.elc
+t/home/alextraza/.local/share/vifm/Trash/000_powerline-evil-themes.elc
+	/home/alextraza/.emacs.d/elpa/powerline-evil-20190603.340/powerline-evil-themes.elc
+t/home/alextraza/.local/share/vifm/Trash/000_demo.php~
+	/home/alextraza/demo.php~
+t/home/alextraza/.local/share/vifm/Trash/000_3m
+	/home/alextraza/3m
+t/home/alextraza/.local/share/vifm/Trash/000_:w
+	/home/alextraza/.emacs.d/lisp/:w
+t/tmp/.vifm-Trash-1000/000_CategoryTranslation.php
+	/tmp/fz3temp-2/CategoryTranslation.php
+t/tmp/.vifm-Trash-1000/000_Item.php
+	/tmp/fz3temp-2/Item.php
+t/tmp/.vifm-Trash-1000/000__form.php
+	/tmp/fz3temp-2/_form.php
+t/tmp/.vifm-Trash-1000/000_fz3temp-lockfile
+	/tmp/fz3temp-2/fz3temp-lockfile
+t/tmp/.vifm-Trash-1000/000_main-local.php
+	/tmp/fz3temp-2/main-local.php
+t/tmp/.vifm-Trash-1000/000_style.css
+	/tmp/fz3temp-2/style.css
+t/tmp/.vifm-Trash-1000/000_view.php
+	/tmp/fz3temp-2/view.php
+t/home/alextraza/.local/share/vifm/Trash/000_Todo.org
+	/home/alextraza/work/archive/Todo.org
+t/home/alextraza/.local/share/vifm/Trash/000_tags
+	/home/alextraza/work/archive/tags
+t/home/alextraza/.local/share/vifm/Trash/000_Lindsey_Stirling_(Deluxe_Version)
+	/home/alextraza/Music/m4a/Lindsey_Stirling/Lindsey_Stirling_(Deluxe_Version)
+t/home/alextraza/.local/share/vifm/Trash/000_The_Razors_Edge
+	/home/alextraza/Music/m4a/AC-DC/The_Razors_Edge
+t/home/alextraza/.local/share/vifm/Trash/000_Nirvana-All_Apologies.m4a
+	/home/alextraza/Music/m4a/Nirvana/In_Utero/Nirvana-All_Apologies.m4a
+t/home/alextraza/.local/share/vifm/Trash/000_Red_Hot_Chili_Peppers-Soul_To_Squeeze.m4a
+	/home/alextraza/Music/m4a/Red_Hot_Chili_Peppers/Greatest_Hits_(Explicit)/Red_Hot_Chili_Peppers-Soul_To_Squeeze.m4a
+t/home/alextraza/.local/share/vifm/Trash/000_Saunder_Jurriaans_&_Danny_Bensi-The_Great_Raid_Begins.m4a
+	/home/alextraza/Music/m4a/Saunder_Jurriaans_&_Danny_Bensi/For_Honor_(Original_Game_Soundtrack)/Saunder_Jurriaans_&_Danny_Bensi-The_Great_Raid_Begins.m4a
+t/home/alextraza/.local/share/vifm/Trash/000_1-300x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/1-300x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_01-300x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/01-300x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_1-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/1-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_1-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/1-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_01_01-300x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/01_01-300x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_01_01-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/01_01-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_01_01-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/01_01-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_2-300x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/2-300x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_02-300x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/02-300x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_2-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/2-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_2-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/2-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_02_01-300x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/02_01-300x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_02_01-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/02_01-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_02_01-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/02_01-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_3-300x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/3-300x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_03-300x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/03-300x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_3-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/3-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_3-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/3-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_03_01-300x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/03_01-300x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_03_01-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/03_01-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_03_01-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/03_01-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_4-300x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/4-300x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_04-300x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/04-300x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_4-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/4-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_4-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/4-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_5-300x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/5-300x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_5-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/5-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_5-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/5-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_6-300x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/6-300x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_6-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/6-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_6-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/6-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_7-300x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/7-300x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_7-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/7-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_7-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/7-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_8-300x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/8-300x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_8-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/8-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_8-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/8-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_9-300x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/9-300x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_9-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/9-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_9-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/9-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15328637587303-45x45.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15328637587303-45x45.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15328637587303-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15328637587303-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15328804055750-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15328804055750-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15328804055750-800x600.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15328804055750-800x600.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15334790393389-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15334790393389-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15334791858465-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15334791858465-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15334792626133-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15334792626133-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15334794308011-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15334794308011-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15334794308011-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15334794308011-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15334825607726-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15334825607726-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15334825607726-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15334825607726-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340700382840-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340700382840-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340700382840-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340700382840-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340700382840-600x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340700382840-600x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340700382840-800x600.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340700382840-800x600.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340778296634-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340778296634-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340778296634-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340778296634-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340778296634-600x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340778296634-600x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340778296634-800x600.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340778296634-800x600.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340780683516-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340780683516-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340780683516-600x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340780683516-600x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340780683516-800x600.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340780683516-800x600.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340782434028-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340782434028-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340782434028-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340782434028-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340782434028-600x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340782434028-600x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340782434028-800x600.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340782434028-800x600.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340786476548-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340786476548-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340786476548-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340786476548-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340786476548-600x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340786476548-600x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340786476548-800x600.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340786476548-800x600.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340787707380-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340787707380-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340787707380-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340787707380-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340787707380-600x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340787707380-600x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340787707380-800x600.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340787707380-800x600.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340788966386-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340788966386-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340788966386-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340788966386-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340788966386-600x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340788966386-600x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340788966386-800x600.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340788966386-800x600.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340820021616-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340820021616-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340820021616-600x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340820021616-600x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340837129548-400x300.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340837129548-400x300.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340837129548-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340837129548-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340837129548-600x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340837129548-600x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15340837129548-800x600.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15340837129548-800x600.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15630229709127-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15630229709127-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15630229709127-800x600.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15630229709127-800x600.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15690695849731-45x45.jpeg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15690695849731-45x45.jpeg
+t/home/alextraza/.local/share/vifm/Trash/000_15690695849731-400x400.jpeg
+	/home/alextraza/work/archive/frontend/web/storage/cache/15690695849731-400x400.jpeg
+t/home/alextraza/.local/share/vifm/Trash/000_15690696032378-45x45.png
+	/home/alextraza/work/archive/frontend/web/storage/cache/15690696032378-45x45.png
+t/home/alextraza/.local/share/vifm/Trash/000_alextraza-45x45.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/alextraza-45x45.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_alextraza-400x400.jpg
+	/home/alextraza/work/archive/frontend/web/storage/cache/alextraza-400x400.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_.docx
+	/home/alextraza/work/perila/storage/.docx
+t/home/alextraza/.local/share/vifm/Trash/000_IMG_0940.JPG
+	/home/alextraza/work/perila/storage/IMG_0940.JPG
+t/home/alextraza/.local/share/vifm/Trash/000_IMG_0982.JPG
+	/home/alextraza/work/perila/storage/IMG_0982.JPG
+t/home/alextraza/.local/share/vifm/Trash/000_IMG_1115.JPG
+	/home/alextraza/work/perila/storage/IMG_1115.JPG
+t/home/alextraza/.local/share/vifm/Trash/000_IMG_1119.JPG
+	/home/alextraza/work/perila/storage/IMG_1119.JPG
+t/home/alextraza/.local/share/vifm/Trash/000_IMG_1120.JPG
+	/home/alextraza/work/perila/storage/IMG_1120.JPG
+t/home/alextraza/.local/share/vifm/Trash/000_IMG_1130.JPG
+	/home/alextraza/work/perila/storage/IMG_1130.JPG
+t/home/alextraza/.local/share/vifm/Trash/000_IMG_1228.JPG
+	/home/alextraza/work/perila/storage/IMG_1228.JPG
+t/home/alextraza/.local/share/vifm/Trash/000_IMG_1245.JPG
+	/home/alextraza/work/perila/storage/IMG_1245.JPG
+t/home/alextraza/.local/share/vifm/Trash/000_IMG_1246.JPG
+	/home/alextraza/work/perila/storage/IMG_1246.JPG
+t/home/alextraza/.local/share/vifm/Trash/000_IMG_1272.JPG
+	/home/alextraza/work/perila/storage/IMG_1272.JPG
+t/home/alextraza/.local/share/vifm/Trash/000_IMG_1275.JPG
+	/home/alextraza/work/perila/storage/IMG_1275.JPG
+t/home/alextraza/.local/share/vifm/Trash/000_IMG_1299.JPG
+	/home/alextraza/work/perila/storage/IMG_1299.JPG
+t/home/alextraza/.local/share/vifm/Trash/000_IMG_1316.JPG
+	/home/alextraza/work/perila/storage/IMG_1316.JPG
+t/home/alextraza/.local/share/vifm/Trash/000__MG_0999.JPG
+	/home/alextraza/work/perila/storage/_MG_0999.JPG
+t/home/alextraza/.local/share/vifm/Trash/000__MG_1045.JPG
+	/home/alextraza/work/perila/storage/_MG_1045.JPG
+t/home/alextraza/.local/share/vifm/Trash/000__MG_1049.JPG
+	/home/alextraza/work/perila/storage/_MG_1049.JPG
+t/home/alextraza/.local/share/vifm/Trash/000__MG_1092.JPG
+	/home/alextraza/work/perila/storage/_MG_1092.JPG
+t/home/alextraza/.local/share/vifm/Trash/000_14811205796798.jpg
+	/home/alextraza/work/perila/storage/images/14811205796798.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14811210685653.jpg
+	/home/alextraza/work/perila/storage/images/14811210685653.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14816123426030.jpg
+	/home/alextraza/work/perila/storage/images/14816123426030.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14816123652332.jpg
+	/home/alextraza/work/perila/storage/images/14816123652332.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14816123794394.jpg
+	/home/alextraza/work/perila/storage/images/14816123794394.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14816124148716.jpg
+	/home/alextraza/work/perila/storage/images/14816124148716.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14816138364052.jpg
+	/home/alextraza/work/perila/storage/images/14816138364052.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817099147631.jpg
+	/home/alextraza/work/perila/storage/images/14817099147631.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817099151143.jpg
+	/home/alextraza/work/perila/storage/images/14817099151143.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817099151745.jpg
+	/home/alextraza/work/perila/storage/images/14817099151745.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817099152154.jpg
+	/home/alextraza/work/perila/storage/images/14817099152154.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817099152719.jpg
+	/home/alextraza/work/perila/storage/images/14817099152719.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817099153382.jpg
+	/home/alextraza/work/perila/storage/images/14817099153382.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817099154401.jpg
+	/home/alextraza/work/perila/storage/images/14817099154401.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817099156047.jpg
+	/home/alextraza/work/perila/storage/images/14817099156047.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817099156053.jpg
+	/home/alextraza/work/perila/storage/images/14817099156053.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817099156082.jpg
+	/home/alextraza/work/perila/storage/images/14817099156082.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817099156266.jpg
+	/home/alextraza/work/perila/storage/images/14817099156266.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817099156721.jpg
+	/home/alextraza/work/perila/storage/images/14817099156721.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817099157153.jpg
+	/home/alextraza/work/perila/storage/images/14817099157153.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817099157308.jpg
+	/home/alextraza/work/perila/storage/images/14817099157308.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817099158176.jpg
+	/home/alextraza/work/perila/storage/images/14817099158176.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817099158443.jpg
+	/home/alextraza/work/perila/storage/images/14817099158443.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817099158988.jpg
+	/home/alextraza/work/perila/storage/images/14817099158988.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817099159525.jpg
+	/home/alextraza/work/perila/storage/images/14817099159525.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817114325700.jpg
+	/home/alextraza/work/perila/storage/images/14817114325700.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817114881346.jpg
+	/home/alextraza/work/perila/storage/images/14817114881346.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817118496031.jpg
+	/home/alextraza/work/perila/storage/images/14817118496031.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817118657987.jpg
+	/home/alextraza/work/perila/storage/images/14817118657987.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14817230721646.jpg
+	/home/alextraza/work/perila/storage/images/14817230721646.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14819020193975.jpg
+	/home/alextraza/work/perila/storage/images/14819020193975.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14821286131218.jpg
+	/home/alextraza/work/perila/storage/images/14821286131218.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14821289941380.jpg
+	/home/alextraza/work/perila/storage/images/14821289941380.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14821290072387.jpg
+	/home/alextraza/work/perila/storage/images/14821290072387.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14821416009228.jpg
+	/home/alextraza/work/perila/storage/images/14821416009228.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14823285456868.jpg
+	/home/alextraza/work/perila/storage/images/14823285456868.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14827399934396.jpg
+	/home/alextraza/work/perila/storage/images/14827399934396.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14834246634720.jpg
+	/home/alextraza/work/perila/storage/images/14834246634720.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14835152041630.jpg
+	/home/alextraza/work/perila/storage/images/14835152041630.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14835320762280.jpg
+	/home/alextraza/work/perila/storage/images/14835320762280.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14835327198857.jpg
+	/home/alextraza/work/perila/storage/images/14835327198857.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14835340965735.jpg
+	/home/alextraza/work/perila/storage/images/14835340965735.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14835374999687.jpg
+	/home/alextraza/work/perila/storage/images/14835374999687.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14835376835166.jpg
+	/home/alextraza/work/perila/storage/images/14835376835166.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14835376962453.jpg
+	/home/alextraza/work/perila/storage/images/14835376962453.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14847244147618.jpg
+	/home/alextraza/work/perila/storage/images/14847244147618.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14854544858080.jpg
+	/home/alextraza/work/perila/storage/images/14854544858080.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14854546161311.jpg
+	/home/alextraza/work/perila/storage/images/14854546161311.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14854546161732.jpg
+	/home/alextraza/work/perila/storage/images/14854546161732.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14854546161772.jpg
+	/home/alextraza/work/perila/storage/images/14854546161772.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14854546161963.jpg
+	/home/alextraza/work/perila/storage/images/14854546161963.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14854546163731.jpg
+	/home/alextraza/work/perila/storage/images/14854546163731.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14854546164526.jpg
+	/home/alextraza/work/perila/storage/images/14854546164526.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14854546166246.jpg
+	/home/alextraza/work/perila/storage/images/14854546166246.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14854546166248.jpg
+	/home/alextraza/work/perila/storage/images/14854546166248.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14854546167398.jpg
+	/home/alextraza/work/perila/storage/images/14854546167398.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14854546167857.jpg
+	/home/alextraza/work/perila/storage/images/14854546167857.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14854546168679.jpg
+	/home/alextraza/work/perila/storage/images/14854546168679.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14854546169601.jpg
+	/home/alextraza/work/perila/storage/images/14854546169601.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14855792613955.jpg
+	/home/alextraza/work/perila/storage/images/14855792613955.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14855802426149.jpg
+	/home/alextraza/work/perila/storage/images/14855802426149.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14855857353050.jpg
+	/home/alextraza/work/perila/storage/images/14855857353050.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14855876721017.jpg
+	/home/alextraza/work/perila/storage/images/14855876721017.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14855886529556.gif
+	/home/alextraza/work/perila/storage/images/14855886529556.gif
+t/home/alextraza/.local/share/vifm/Trash/000_14855908672741.jpg
+	/home/alextraza/work/perila/storage/images/14855908672741.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14855934996089.jpg
+	/home/alextraza/work/perila/storage/images/14855934996089.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14856688517270.jpg
+	/home/alextraza/work/perila/storage/images/14856688517270.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14856695004631.jpg
+	/home/alextraza/work/perila/storage/images/14856695004631.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14856788014764.jpg
+	/home/alextraza/work/perila/storage/images/14856788014764.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14856788343752.jpg
+	/home/alextraza/work/perila/storage/images/14856788343752.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14856788779857.jpg
+	/home/alextraza/work/perila/storage/images/14856788779857.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14858423147364.jpg
+	/home/alextraza/work/perila/storage/images/14858423147364.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14859528704519.jpg
+	/home/alextraza/work/perila/storage/images/14859528704519.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14859540609284.jpg
+	/home/alextraza/work/perila/storage/images/14859540609284.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14861041588483.jpg
+	/home/alextraza/work/perila/storage/images/14861041588483.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14862738708128.jpg
+	/home/alextraza/work/perila/storage/images/14862738708128.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14865787737525.jpg
+	/home/alextraza/work/perila/storage/images/14865787737525.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14865789016002.jpg
+	/home/alextraza/work/perila/storage/images/14865789016002.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14867893547491.jpg
+	/home/alextraza/work/perila/storage/images/14867893547491.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14876656834990.jpg
+	/home/alextraza/work/perila/storage/images/14876656834990.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14894826177741.jpg
+	/home/alextraza/work/perila/storage/images/14894826177741.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906169806816.jpg
+	/home/alextraza/work/perila/storage/images/14906169806816.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906171127906.jpg
+	/home/alextraza/work/perila/storage/images/14906171127906.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906171826646.jpg
+	/home/alextraza/work/perila/storage/images/14906171826646.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906175932077.jpg
+	/home/alextraza/work/perila/storage/images/14906175932077.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906176212426.jpg
+	/home/alextraza/work/perila/storage/images/14906176212426.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906177124452.jpg
+	/home/alextraza/work/perila/storage/images/14906177124452.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906179176617.jpg
+	/home/alextraza/work/perila/storage/images/14906179176617.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906824688994.jpg
+	/home/alextraza/work/perila/storage/images/14906824688994.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906827515505.jpg
+	/home/alextraza/work/perila/storage/images/14906827515505.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906829774229.jpg
+	/home/alextraza/work/perila/storage/images/14906829774229.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906830181256.jpg
+	/home/alextraza/work/perila/storage/images/14906830181256.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906846755586.jpg
+	/home/alextraza/work/perila/storage/images/14906846755586.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906846901360.jpg
+	/home/alextraza/work/perila/storage/images/14906846901360.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906847979329.jpg
+	/home/alextraza/work/perila/storage/images/14906847979329.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906848127219.jpg
+	/home/alextraza/work/perila/storage/images/14906848127219.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906848284330.jpg
+	/home/alextraza/work/perila/storage/images/14906848284330.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906848453319.jpg
+	/home/alextraza/work/perila/storage/images/14906848453319.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906848584362.jpg
+	/home/alextraza/work/perila/storage/images/14906848584362.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906848734404.jpg
+	/home/alextraza/work/perila/storage/images/14906848734404.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906848874251.jpg
+	/home/alextraza/work/perila/storage/images/14906848874251.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906849021154.jpg
+	/home/alextraza/work/perila/storage/images/14906849021154.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906849175176.jpg
+	/home/alextraza/work/perila/storage/images/14906849175176.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906849334244.jpg
+	/home/alextraza/work/perila/storage/images/14906849334244.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906849484976.jpg
+	/home/alextraza/work/perila/storage/images/14906849484976.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906849656941.jpg
+	/home/alextraza/work/perila/storage/images/14906849656941.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906849831273.jpg
+	/home/alextraza/work/perila/storage/images/14906849831273.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906850103613.jpg
+	/home/alextraza/work/perila/storage/images/14906850103613.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_14906865629124.jpg
+	/home/alextraza/work/perila/storage/images/14906865629124.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15017735991067.png
+	/home/alextraza/work/perila/storage/images/15017735991067.png
+t/home/alextraza/.local/share/vifm/Trash/000_15022896717701.jpg
+	/home/alextraza/work/perila/storage/images/15022896717701.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15022898101211.jpg
+	/home/alextraza/work/perila/storage/images/15022898101211.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15022901464041.gif
+	/home/alextraza/work/perila/storage/images/15022901464041.gif
+t/home/alextraza/.local/share/vifm/Trash/000_15022902025366.jpg
+	/home/alextraza/work/perila/storage/images/15022902025366.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15054593873705.jpg
+	/home/alextraza/work/perila/storage/images/15054593873705.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15060620463796.jpg
+	/home/alextraza/work/perila/storage/images/15060620463796.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15073096695617.jpg
+	/home/alextraza/work/perila/storage/images/15073096695617.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15073098131139.jpg
+	/home/alextraza/work/perila/storage/images/15073098131139.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15073100481873.png
+	/home/alextraza/work/perila/storage/images/15073100481873.png
+t/home/alextraza/.local/share/vifm/Trash/000_15073103192272.jpg
+	/home/alextraza/work/perila/storage/images/15073103192272.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15095411734212.png
+	/home/alextraza/work/perila/storage/images/15095411734212.png
+t/home/alextraza/.local/share/vifm/Trash/000_15190498645877.jpg
+	/home/alextraza/work/perila/storage/images/15190498645877.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15191371824962.jpg
+	/home/alextraza/work/perila/storage/images/15191371824962.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15199315688541.png
+	/home/alextraza/work/perila/storage/images/15199315688541.png
+t/home/alextraza/.local/share/vifm/Trash/000_15216171465053.jpg
+	/home/alextraza/work/perila/storage/images/15216171465053.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15217129417750.jpg
+	/home/alextraza/work/perila/storage/images/15217129417750.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15371741241922.png
+	/home/alextraza/work/perila/storage/images/15371741241922.png
+t/home/alextraza/.local/share/vifm/Trash/000_15371745906230.jpg
+	/home/alextraza/work/perila/storage/images/15371745906230.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374366591220.jpg
+	/home/alextraza/work/perila/storage/images/15374366591220.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374366591631.jpg
+	/home/alextraza/work/perila/storage/images/15374366591631.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374366592968.jpg
+	/home/alextraza/work/perila/storage/images/15374366592968.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374366594410.jpg
+	/home/alextraza/work/perila/storage/images/15374366594410.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374366594574.jpg
+	/home/alextraza/work/perila/storage/images/15374366594574.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374366594888.jpg
+	/home/alextraza/work/perila/storage/images/15374366594888.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374366595594.jpg
+	/home/alextraza/work/perila/storage/images/15374366595594.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374366596802.jpg
+	/home/alextraza/work/perila/storage/images/15374366596802.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374366599003.jpg
+	/home/alextraza/work/perila/storage/images/15374366599003.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374424861015.jpg
+	/home/alextraza/work/perila/storage/images/15374424861015.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374424861471.jpg
+	/home/alextraza/work/perila/storage/images/15374424861471.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374424861534.jpg
+	/home/alextraza/work/perila/storage/images/15374424861534.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374424861801.jpg
+	/home/alextraza/work/perila/storage/images/15374424861801.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374424863235.jpg
+	/home/alextraza/work/perila/storage/images/15374424863235.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374424863945.jpg
+	/home/alextraza/work/perila/storage/images/15374424863945.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374424864648.jpg
+	/home/alextraza/work/perila/storage/images/15374424864648.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374424866266.jpg
+	/home/alextraza/work/perila/storage/images/15374424866266.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374424867199.jpg
+	/home/alextraza/work/perila/storage/images/15374424867199.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374424868948.jpg
+	/home/alextraza/work/perila/storage/images/15374424868948.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374424869207.jpg
+	/home/alextraza/work/perila/storage/images/15374424869207.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374427348552.jpg
+	/home/alextraza/work/perila/storage/images/15374427348552.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374434049793.jpg
+	/home/alextraza/work/perila/storage/images/15374434049793.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374479036597.jpg
+	/home/alextraza/work/perila/storage/images/15374479036597.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374479041530.jpg
+	/home/alextraza/work/perila/storage/images/15374479041530.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374479041594.jpg
+	/home/alextraza/work/perila/storage/images/15374479041594.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374479044890.jpg
+	/home/alextraza/work/perila/storage/images/15374479044890.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374479047169.jpg
+	/home/alextraza/work/perila/storage/images/15374479047169.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374479048085.jpg
+	/home/alextraza/work/perila/storage/images/15374479048085.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374479048658.jpg
+	/home/alextraza/work/perila/storage/images/15374479048658.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374479048891.jpg
+	/home/alextraza/work/perila/storage/images/15374479048891.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374479048992.jpg
+	/home/alextraza/work/perila/storage/images/15374479048992.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374479049441.jpg
+	/home/alextraza/work/perila/storage/images/15374479049441.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374479049604.jpg
+	/home/alextraza/work/perila/storage/images/15374479049604.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374482771263.jpg
+	/home/alextraza/work/perila/storage/images/15374482771263.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374482773038.jpg
+	/home/alextraza/work/perila/storage/images/15374482773038.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374482773772.jpg
+	/home/alextraza/work/perila/storage/images/15374482773772.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374482773866.jpg
+	/home/alextraza/work/perila/storage/images/15374482773866.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374482776996.jpg
+	/home/alextraza/work/perila/storage/images/15374482776996.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374482777995.jpg
+	/home/alextraza/work/perila/storage/images/15374482777995.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374482778191.jpg
+	/home/alextraza/work/perila/storage/images/15374482778191.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374482778359.jpg
+	/home/alextraza/work/perila/storage/images/15374482778359.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374482778424.jpg
+	/home/alextraza/work/perila/storage/images/15374482778424.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374482779158.jpg
+	/home/alextraza/work/perila/storage/images/15374482779158.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374482779263.jpg
+	/home/alextraza/work/perila/storage/images/15374482779263.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374483923043.jpg
+	/home/alextraza/work/perila/storage/images/15374483923043.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374483923872.jpg
+	/home/alextraza/work/perila/storage/images/15374483923872.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374493002734.jpg
+	/home/alextraza/work/perila/storage/images/15374493002734.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374493004108.jpg
+	/home/alextraza/work/perila/storage/images/15374493004108.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374493007563.jpg
+	/home/alextraza/work/perila/storage/images/15374493007563.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374505481103.jpg
+	/home/alextraza/work/perila/storage/images/15374505481103.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374505481255.jpg
+	/home/alextraza/work/perila/storage/images/15374505481255.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374505481325.jpg
+	/home/alextraza/work/perila/storage/images/15374505481325.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374505481767.jpg
+	/home/alextraza/work/perila/storage/images/15374505481767.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374505484143.jpg
+	/home/alextraza/work/perila/storage/images/15374505484143.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374505485197.jpg
+	/home/alextraza/work/perila/storage/images/15374505485197.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374505487392.jpg
+	/home/alextraza/work/perila/storage/images/15374505487392.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374505488860.jpg
+	/home/alextraza/work/perila/storage/images/15374505488860.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374505488874.jpg
+	/home/alextraza/work/perila/storage/images/15374505488874.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374505489480.jpg
+	/home/alextraza/work/perila/storage/images/15374505489480.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374508241737.jpg
+	/home/alextraza/work/perila/storage/images/15374508241737.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374508242598.jpg
+	/home/alextraza/work/perila/storage/images/15374508242598.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374508242922.jpg
+	/home/alextraza/work/perila/storage/images/15374508242922.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374508244064.jpg
+	/home/alextraza/work/perila/storage/images/15374508244064.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374508244994.jpg
+	/home/alextraza/work/perila/storage/images/15374508244994.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374508245387.jpg
+	/home/alextraza/work/perila/storage/images/15374508245387.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374508245837.jpg
+	/home/alextraza/work/perila/storage/images/15374508245837.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374508248634.jpg
+	/home/alextraza/work/perila/storage/images/15374508248634.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374508249587.jpg
+	/home/alextraza/work/perila/storage/images/15374508249587.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374508249743.jpg
+	/home/alextraza/work/perila/storage/images/15374508249743.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374508792004.jpg
+	/home/alextraza/work/perila/storage/images/15374508792004.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374508792441.jpg
+	/home/alextraza/work/perila/storage/images/15374508792441.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374508797415.jpg
+	/home/alextraza/work/perila/storage/images/15374508797415.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374508798554.jpg
+	/home/alextraza/work/perila/storage/images/15374508798554.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374510492948.jpg
+	/home/alextraza/work/perila/storage/images/15374510492948.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374510499617.jpg
+	/home/alextraza/work/perila/storage/images/15374510499617.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374511396099.jpg
+	/home/alextraza/work/perila/storage/images/15374511396099.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374511398447.jpg
+	/home/alextraza/work/perila/storage/images/15374511398447.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374512646541.jpg
+	/home/alextraza/work/perila/storage/images/15374512646541.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374512647408.jpg
+	/home/alextraza/work/perila/storage/images/15374512647408.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374515752500.jpg
+	/home/alextraza/work/perila/storage/images/15374515752500.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374515752501.jpg
+	/home/alextraza/work/perila/storage/images/15374515752501.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374515752709.jpg
+	/home/alextraza/work/perila/storage/images/15374515752709.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374515752797.jpg
+	/home/alextraza/work/perila/storage/images/15374515752797.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374515754360.jpg
+	/home/alextraza/work/perila/storage/images/15374515754360.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374515754843.jpg
+	/home/alextraza/work/perila/storage/images/15374515754843.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374515755997.jpg
+	/home/alextraza/work/perila/storage/images/15374515755997.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374515756110.jpg
+	/home/alextraza/work/perila/storage/images/15374515756110.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374515757414.jpg
+	/home/alextraza/work/perila/storage/images/15374515757414.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374520682982.jpg
+	/home/alextraza/work/perila/storage/images/15374520682982.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374520683637.jpg
+	/home/alextraza/work/perila/storage/images/15374520683637.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374520685164.jpg
+	/home/alextraza/work/perila/storage/images/15374520685164.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374520685341.jpg
+	/home/alextraza/work/perila/storage/images/15374520685341.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374520685419.jpg
+	/home/alextraza/work/perila/storage/images/15374520685419.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374520685542.jpg
+	/home/alextraza/work/perila/storage/images/15374520685542.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374520687141.jpg
+	/home/alextraza/work/perila/storage/images/15374520687141.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374520687772.jpg
+	/home/alextraza/work/perila/storage/images/15374520687772.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374521882998.jpg
+	/home/alextraza/work/perila/storage/images/15374521882998.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374521883146.jpg
+	/home/alextraza/work/perila/storage/images/15374521883146.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374521887778.jpg
+	/home/alextraza/work/perila/storage/images/15374521887778.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374524744592.jpg
+	/home/alextraza/work/perila/storage/images/15374524744592.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374524745609.jpg
+	/home/alextraza/work/perila/storage/images/15374524745609.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374524746269.jpg
+	/home/alextraza/work/perila/storage/images/15374524746269.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374524747761.jpg
+	/home/alextraza/work/perila/storage/images/15374524747761.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374526991412.jpg
+	/home/alextraza/work/perila/storage/images/15374526991412.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374526995906.jpg
+	/home/alextraza/work/perila/storage/images/15374526995906.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374526996874.jpg
+	/home/alextraza/work/perila/storage/images/15374526996874.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374526997204.jpg
+	/home/alextraza/work/perila/storage/images/15374526997204.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374526998068.jpg
+	/home/alextraza/work/perila/storage/images/15374526998068.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374526998157.jpg
+	/home/alextraza/work/perila/storage/images/15374526998157.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374526999771.jpg
+	/home/alextraza/work/perila/storage/images/15374526999771.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374526999837.jpg
+	/home/alextraza/work/perila/storage/images/15374526999837.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374529794345.jpg
+	/home/alextraza/work/perila/storage/images/15374529794345.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374529795485.jpg
+	/home/alextraza/work/perila/storage/images/15374529795485.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374529798325.jpg
+	/home/alextraza/work/perila/storage/images/15374529798325.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374529798769.jpg
+	/home/alextraza/work/perila/storage/images/15374529798769.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374529799820.jpg
+	/home/alextraza/work/perila/storage/images/15374529799820.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374533631269.jpg
+	/home/alextraza/work/perila/storage/images/15374533631269.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374533632569.jpg
+	/home/alextraza/work/perila/storage/images/15374533632569.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374533634797.jpg
+	/home/alextraza/work/perila/storage/images/15374533634797.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374533637462.jpg
+	/home/alextraza/work/perila/storage/images/15374533637462.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374533991912.jpg
+	/home/alextraza/work/perila/storage/images/15374533991912.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374533993311.jpg
+	/home/alextraza/work/perila/storage/images/15374533993311.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374533994950.jpg
+	/home/alextraza/work/perila/storage/images/15374533994950.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374533995714.jpg
+	/home/alextraza/work/perila/storage/images/15374533995714.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374533997955.jpg
+	/home/alextraza/work/perila/storage/images/15374533997955.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374533998745.jpg
+	/home/alextraza/work/perila/storage/images/15374533998745.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374534432211.jpg
+	/home/alextraza/work/perila/storage/images/15374534432211.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374534442931.jpg
+	/home/alextraza/work/perila/storage/images/15374534442931.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374534447507.jpg
+	/home/alextraza/work/perila/storage/images/15374534447507.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374535352104.jpg
+	/home/alextraza/work/perila/storage/images/15374535352104.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374535359859.jpg
+	/home/alextraza/work/perila/storage/images/15374535359859.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374535631644.jpg
+	/home/alextraza/work/perila/storage/images/15374535631644.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374535633600.jpg
+	/home/alextraza/work/perila/storage/images/15374535633600.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374535635027.jpg
+	/home/alextraza/work/perila/storage/images/15374535635027.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374535636680.jpg
+	/home/alextraza/work/perila/storage/images/15374535636680.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374535869200.jpg
+	/home/alextraza/work/perila/storage/images/15374535869200.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374540956801.jpg
+	/home/alextraza/work/perila/storage/images/15374540956801.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374543712296.jpg
+	/home/alextraza/work/perila/storage/images/15374543712296.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374544523333.jpg
+	/home/alextraza/work/perila/storage/images/15374544523333.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374544873924.jpg
+	/home/alextraza/work/perila/storage/images/15374544873924.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15374546559357.jpg
+	/home/alextraza/work/perila/storage/images/15374546559357.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375106149138.jpg
+	/home/alextraza/work/perila/storage/images/15375106149138.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375116206003.jpg
+	/home/alextraza/work/perila/storage/images/15375116206003.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375290852143.jpg
+	/home/alextraza/work/perila/storage/images/15375290852143.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375294309312.jpg
+	/home/alextraza/work/perila/storage/images/15375294309312.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375297587485.jpg
+	/home/alextraza/work/perila/storage/images/15375297587485.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375302208626.jpg
+	/home/alextraza/work/perila/storage/images/15375302208626.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375303082540.jpg
+	/home/alextraza/work/perila/storage/images/15375303082540.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375303084355.jpg
+	/home/alextraza/work/perila/storage/images/15375303084355.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375303084391.jpg
+	/home/alextraza/work/perila/storage/images/15375303084391.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375303086252.jpg
+	/home/alextraza/work/perila/storage/images/15375303086252.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375303086331.jpg
+	/home/alextraza/work/perila/storage/images/15375303086331.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375321573478.jpg
+	/home/alextraza/work/perila/storage/images/15375321573478.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375321574227.jpg
+	/home/alextraza/work/perila/storage/images/15375321574227.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375321576701.jpg
+	/home/alextraza/work/perila/storage/images/15375321576701.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375323397004.jpg
+	/home/alextraza/work/perila/storage/images/15375323397004.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375328192562.jpg
+	/home/alextraza/work/perila/storage/images/15375328192562.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375328192850.jpg
+	/home/alextraza/work/perila/storage/images/15375328192850.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375328194184.jpg
+	/home/alextraza/work/perila/storage/images/15375328194184.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375328194741.jpg
+	/home/alextraza/work/perila/storage/images/15375328194741.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375328196473.jpg
+	/home/alextraza/work/perila/storage/images/15375328196473.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375328196891.jpg
+	/home/alextraza/work/perila/storage/images/15375328196891.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375339672855.jpg
+	/home/alextraza/work/perila/storage/images/15375339672855.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375369019815.jpg
+	/home/alextraza/work/perila/storage/images/15375369019815.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375369022504.jpg
+	/home/alextraza/work/perila/storage/images/15375369022504.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375369027405.jpg
+	/home/alextraza/work/perila/storage/images/15375369027405.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375369029393.jpg
+	/home/alextraza/work/perila/storage/images/15375369029393.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375375031337.jpg
+	/home/alextraza/work/perila/storage/images/15375375031337.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375375033342.jpg
+	/home/alextraza/work/perila/storage/images/15375375033342.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375405258021.jpg
+	/home/alextraza/work/perila/storage/images/15375405258021.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375405604351.jpg
+	/home/alextraza/work/perila/storage/images/15375405604351.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375405604767.jpg
+	/home/alextraza/work/perila/storage/images/15375405604767.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375405607467.jpg
+	/home/alextraza/work/perila/storage/images/15375405607467.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375405901984.jpg
+	/home/alextraza/work/perila/storage/images/15375405901984.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375405906922.jpg
+	/home/alextraza/work/perila/storage/images/15375405906922.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375407617218.jpg
+	/home/alextraza/work/perila/storage/images/15375407617218.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375409961925.jpg
+	/home/alextraza/work/perila/storage/images/15375409961925.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375409968384.jpg
+	/home/alextraza/work/perila/storage/images/15375409968384.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375411021721.jpg
+	/home/alextraza/work/perila/storage/images/15375411021721.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375411021729.jpg
+	/home/alextraza/work/perila/storage/images/15375411021729.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375411025588.jpg
+	/home/alextraza/work/perila/storage/images/15375411025588.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375411027196.jpg
+	/home/alextraza/work/perila/storage/images/15375411027196.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375412355437.jpg
+	/home/alextraza/work/perila/storage/images/15375412355437.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375416191161.jpg
+	/home/alextraza/work/perila/storage/images/15375416191161.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375416193295.jpg
+	/home/alextraza/work/perila/storage/images/15375416193295.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375416197200.jpg
+	/home/alextraza/work/perila/storage/images/15375416197200.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375416199188.jpg
+	/home/alextraza/work/perila/storage/images/15375416199188.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375418742177.jpg
+	/home/alextraza/work/perila/storage/images/15375418742177.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375418746724.jpg
+	/home/alextraza/work/perila/storage/images/15375418746724.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375418747537.jpg
+	/home/alextraza/work/perila/storage/images/15375418747537.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375418748395.jpg
+	/home/alextraza/work/perila/storage/images/15375418748395.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375422181362.jpg
+	/home/alextraza/work/perila/storage/images/15375422181362.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375422181771.jpg
+	/home/alextraza/work/perila/storage/images/15375422181771.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375422182770.jpg
+	/home/alextraza/work/perila/storage/images/15375422182770.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375422183407.jpg
+	/home/alextraza/work/perila/storage/images/15375422183407.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375422183446.jpg
+	/home/alextraza/work/perila/storage/images/15375422183446.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375422183491.jpg
+	/home/alextraza/work/perila/storage/images/15375422183491.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375422188616.jpg
+	/home/alextraza/work/perila/storage/images/15375422188616.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375422188630.jpg
+	/home/alextraza/work/perila/storage/images/15375422188630.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375422188851.jpg
+	/home/alextraza/work/perila/storage/images/15375422188851.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15375422931919.jpg
+	/home/alextraza/work/perila/storage/images/15375422931919.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377711882176.jpg
+	/home/alextraza/work/perila/storage/images/15377711882176.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377711884157.jpg
+	/home/alextraza/work/perila/storage/images/15377711884157.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377711889371.jpg
+	/home/alextraza/work/perila/storage/images/15377711889371.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377711889441.jpg
+	/home/alextraza/work/perila/storage/images/15377711889441.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377732174511.jpg
+	/home/alextraza/work/perila/storage/images/15377732174511.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377732178828.jpg
+	/home/alextraza/work/perila/storage/images/15377732178828.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377737651330.jpg
+	/home/alextraza/work/perila/storage/images/15377737651330.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377737651739.jpg
+	/home/alextraza/work/perila/storage/images/15377737651739.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377737652293.jpg
+	/home/alextraza/work/perila/storage/images/15377737652293.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377737653895.jpg
+	/home/alextraza/work/perila/storage/images/15377737653895.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377737655553.jpg
+	/home/alextraza/work/perila/storage/images/15377737655553.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377737656178.jpg
+	/home/alextraza/work/perila/storage/images/15377737656178.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377737657166.jpg
+	/home/alextraza/work/perila/storage/images/15377737657166.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377737658692.jpg
+	/home/alextraza/work/perila/storage/images/15377737658692.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377737658774.jpg
+	/home/alextraza/work/perila/storage/images/15377737658774.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377737658778.jpg
+	/home/alextraza/work/perila/storage/images/15377737658778.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377737658787.jpg
+	/home/alextraza/work/perila/storage/images/15377737658787.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377738033414.jpg
+	/home/alextraza/work/perila/storage/images/15377738033414.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377738034922.jpg
+	/home/alextraza/work/perila/storage/images/15377738034922.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377738035762.jpg
+	/home/alextraza/work/perila/storage/images/15377738035762.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377738036182.jpg
+	/home/alextraza/work/perila/storage/images/15377738036182.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377738036364.jpg
+	/home/alextraza/work/perila/storage/images/15377738036364.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377738037104.jpg
+	/home/alextraza/work/perila/storage/images/15377738037104.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377738037360.jpg
+	/home/alextraza/work/perila/storage/images/15377738037360.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377738037657.jpg
+	/home/alextraza/work/perila/storage/images/15377738037657.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377738037822.jpg
+	/home/alextraza/work/perila/storage/images/15377738037822.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377738038804.jpg
+	/home/alextraza/work/perila/storage/images/15377738038804.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377742631177.jpg
+	/home/alextraza/work/perila/storage/images/15377742631177.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377742632380.jpg
+	/home/alextraza/work/perila/storage/images/15377742632380.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377742635105.jpg
+	/home/alextraza/work/perila/storage/images/15377742635105.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377742635341.jpg
+	/home/alextraza/work/perila/storage/images/15377742635341.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377742635353.jpg
+	/home/alextraza/work/perila/storage/images/15377742635353.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377742636384.jpg
+	/home/alextraza/work/perila/storage/images/15377742636384.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377742637475.jpg
+	/home/alextraza/work/perila/storage/images/15377742637475.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377742637531.jpg
+	/home/alextraza/work/perila/storage/images/15377742637531.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377742639271.jpg
+	/home/alextraza/work/perila/storage/images/15377742639271.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377748031723.jpg
+	/home/alextraza/work/perila/storage/images/15377748031723.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377748032344.jpg
+	/home/alextraza/work/perila/storage/images/15377748032344.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377748033285.jpg
+	/home/alextraza/work/perila/storage/images/15377748033285.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377748034281.jpg
+	/home/alextraza/work/perila/storage/images/15377748034281.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377748034744.jpg
+	/home/alextraza/work/perila/storage/images/15377748034744.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377748035882.jpg
+	/home/alextraza/work/perila/storage/images/15377748035882.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377748038883.jpg
+	/home/alextraza/work/perila/storage/images/15377748038883.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377748039339.jpg
+	/home/alextraza/work/perila/storage/images/15377748039339.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377769791984.jpg
+	/home/alextraza/work/perila/storage/images/15377769791984.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377769792772.jpg
+	/home/alextraza/work/perila/storage/images/15377769792772.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377769794579.jpg
+	/home/alextraza/work/perila/storage/images/15377769794579.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377769794921.jpg
+	/home/alextraza/work/perila/storage/images/15377769794921.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377769795048.jpg
+	/home/alextraza/work/perila/storage/images/15377769795048.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377769795875.jpg
+	/home/alextraza/work/perila/storage/images/15377769795875.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377769796851.jpg
+	/home/alextraza/work/perila/storage/images/15377769796851.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377769796959.jpg
+	/home/alextraza/work/perila/storage/images/15377769796959.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377769797420.jpg
+	/home/alextraza/work/perila/storage/images/15377769797420.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377769797464.jpg
+	/home/alextraza/work/perila/storage/images/15377769797464.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15377769799937.jpg
+	/home/alextraza/work/perila/storage/images/15377769799937.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15378655275824.jpg
+	/home/alextraza/work/perila/storage/images/15378655275824.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15378655954200.jpg
+	/home/alextraza/work/perila/storage/images/15378655954200.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15379430794734.jpg
+	/home/alextraza/work/perila/storage/images/15379430794734.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15379432645984.jpg
+	/home/alextraza/work/perila/storage/images/15379432645984.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15379513629697.png
+	/home/alextraza/work/perila/storage/images/15379513629697.png
+t/home/alextraza/.local/share/vifm/Trash/000_15380468861648.jpg
+	/home/alextraza/work/perila/storage/images/15380468861648.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15380468863370.jpg
+	/home/alextraza/work/perila/storage/images/15380468863370.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15380468868989.jpg
+	/home/alextraza/work/perila/storage/images/15380468868989.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15380469132034.jpg
+	/home/alextraza/work/perila/storage/images/15380469132034.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15380469136448.jpg
+	/home/alextraza/work/perila/storage/images/15380469136448.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15380469136589.jpg
+	/home/alextraza/work/perila/storage/images/15380469136589.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15380470635153.jpg
+	/home/alextraza/work/perila/storage/images/15380470635153.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15380472316268.jpg
+	/home/alextraza/work/perila/storage/images/15380472316268.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15380472317848.jpg
+	/home/alextraza/work/perila/storage/images/15380472317848.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15380472318551.jpg
+	/home/alextraza/work/perila/storage/images/15380472318551.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15380472731868.jpg
+	/home/alextraza/work/perila/storage/images/15380472731868.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15380472733240.jpg
+	/home/alextraza/work/perila/storage/images/15380472733240.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15380472736793.jpg
+	/home/alextraza/work/perila/storage/images/15380472736793.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15381226279679.png
+	/home/alextraza/work/perila/storage/images/15381226279679.png
+t/home/alextraza/.local/share/vifm/Trash/000_15381227621159.png
+	/home/alextraza/work/perila/storage/images/15381227621159.png
+t/home/alextraza/.local/share/vifm/Trash/000_15381231318047.png
+	/home/alextraza/work/perila/storage/images/15381231318047.png
+t/home/alextraza/.local/share/vifm/Trash/000_15381241691530.png
+	/home/alextraza/work/perila/storage/images/15381241691530.png
+t/home/alextraza/.local/share/vifm/Trash/000_15381253852533.png
+	/home/alextraza/work/perila/storage/images/15381253852533.png
+t/home/alextraza/.local/share/vifm/Trash/000_15381256506487.png
+	/home/alextraza/work/perila/storage/images/15381256506487.png
+t/home/alextraza/.local/share/vifm/Trash/000_15381258537605.jpg
+	/home/alextraza/work/perila/storage/images/15381258537605.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15381258889122.jpg
+	/home/alextraza/work/perila/storage/images/15381258889122.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15381259459295.jpg
+	/home/alextraza/work/perila/storage/images/15381259459295.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15381259755095.jpg
+	/home/alextraza/work/perila/storage/images/15381259755095.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15381334551829.jpeg
+	/home/alextraza/work/perila/storage/images/15381334551829.jpeg
+t/home/alextraza/.local/share/vifm/Trash/000_15381354345744.jpg
+	/home/alextraza/work/perila/storage/images/15381354345744.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_15381357926966.jpeg
+	/home/alextraza/work/perila/storage/images/15381357926966.jpeg
+t/home/alextraza/.local/share/vifm/Trash/000_15381361806364.png
+	/home/alextraza/work/perila/storage/images/15381361806364.png
+t/home/alextraza/.local/share/vifm/Trash/000_15381363769568.png
+	/home/alextraza/work/perila/storage/images/15381363769568.png
+t/home/alextraza/.local/share/vifm/Trash/000_15381363946872.png
+	/home/alextraza/work/perila/storage/images/15381363946872.png
+t/home/alextraza/.local/share/vifm/Trash/000_15391570393461.png
+	/home/alextraza/work/perila/storage/images/15391570393461.png
+t/home/alextraza/.local/share/vifm/Trash/000_15454927829988.jpg
+	/home/alextraza/work/perila/storage/images/15454927829988.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_ROCK5512.jpg
+	/home/alextraza/work/perila/storage/images/ROCK5512.jpg
+t/home/alextraza/.local/share/vifm/Trash/000_logosprava.png
+	/home/alextraza/work/perila/storage/images/logosprava.png
+t/home/alextraza/.local/share/vifm/Trash/000_logotipsprava.png
+	/home/alextraza/work/perila/storage/images/logotipsprava.png
+t/home/alextraza/.local/share/vifm/Trash/000_images
+	/home/alextraza/work/perila/images
+t/home/alextraza/.local/share/vifm/Trash/000_1a0e4e7e
+	/home/alextraza/work/perila/assets/1a0e4e7e
+t/home/alextraza/.local/share/vifm/Trash/000_25acb4fc
+	/home/alextraza/work/perila/assets/25acb4fc
+t/home/alextraza/.local/share/vifm/Trash/000_36d84eeb
+	/home/alextraza/work/perila/assets/36d84eeb
+t/home/alextraza/.local/share/vifm/Trash/000_94f9c9e6
+	/home/alextraza/work/perila/assets/94f9c9e6
+t/home/alextraza/.local/share/vifm/Trash/000_3388ebf6
+	/home/alextraza/work/perila/assets/3388ebf6
+t/home/alextraza/.local/share/vifm/Trash/000_a380dae2
+	/home/alextraza/work/perila/assets/a380dae2
+t/home/alextraza/.local/share/vifm/Trash/000_f6cb558e
+	/home/alextraza/work/perila/assets/f6cb558e
+t/home/alextraza/.local/share/vifm/Trash/000_e568d057
+	/home/alextraza/work/perila/admin/assets/e568d057
+t/home/alextraza/.local/share/vifm/Trash/000_cache
+	/home/alextraza/work/perila/engine/backend/runtime/cache
+t/home/alextraza/.local/share/vifm/Trash/000_debug
+	/home/alextraza/work/perila/engine/backend/runtime/debug
+t/home/alextraza/.local/share/vifm/Trash/000_logs
+	/home/alextraza/work/perila/engine/backend/runtime/logs
+t/home/alextraza/.local/share/vifm/Trash/001_cache
+	/home/alextraza/work/perila/engine/frontend/runtime/cache
+t/home/alextraza/.local/share/vifm/Trash/001_debug
+	/home/alextraza/work/perila/engine/frontend/runtime/debug
+t/home/alextraza/.local/share/vifm/Trash/001_logs
+	/home/alextraza/work/perila/engine/frontend/runtime/logs
+t/home/alextraza/.local/share/vifm/Trash/000_.emacs_old
+	/home/alextraza/.emacs_old
+t/home/alextraza/.local/share/vifm/Trash/000_.emacs_old~
+	/home/alextraza/.emacs_old~
+t/home/alextraza/.local/share/vifm/Trash/000_.spacemacs
+	/home/alextraza/.spacemacs
+t/home/alextraza/.local/share/vifm/Trash/000_.spacemacs.env
+	/home/alextraza/.spacemacs.env
+t/home/alextraza/.local/share/vifm/Trash/000_.emacs.d-space
+	/home/alextraza/.emacs.d-space
+t/home/alextraza/.local/share/vifm/Trash/000_.emacs.d-old
+	/home/alextraza/.emacs.d-old
+t/home/alextraza/.local/share/vifm/Trash/000_.PoE
+	/home/alextraza/.PoE
+t/home/alextraza/.local/share/vifm/Trash/000_Git.php
+	/home/alextraza/work/archive/frontend/web/Git.php
+t/home/alextraza/.local/share/vifm/Trash/000_deploy.php
+	/home/alextraza/work/archive/frontend/web/deploy.php
+t/home/alextraza/.local/share/vifm/Trash/000_.git
+	/home/alextraza/work/perila/.git
+t/home/alextraza/.local/share/vifm/Trash/000_perila.zip
+	/home/alextraza/work/perila/perila.zip
+t/home/alextraza/.local/share/vifm/Trash/000_gmap.js
+	/srv/http/perila/engine/frontend/themes/perila/public/js/gmap.js
+t/home/alextraza/.local/share/vifm/Trash/000_owl.csss
+	/srv/http/perila/engine/frontend/themes/perila/public/css/owl.csss
+t/home/alextraza/.local/share/vifm/Trash/000_owl.jss
+	/srv/http/perila/engine/frontend/themes/perila/public/js/owl.jss
+t/home/alextraza/.local/share/vifm/Trash/000_jquery-1.12.4.min.js
+	/srv/http/perila/engine/frontend/themes/perila/public/js/jquery-1.12.4.min.js
+t/home/alextraza/.local/share/vifm/Trash/000_jquery.fancybox-media.js
+	/srv/http/perila/engine/frontend/themes/perila/public/js/jquery.fancybox-media.js
+t/home/alextraza/.local/share/vifm/Trash/000_jquery.fancybox.pack.js
+	/srv/http/perila/engine/frontend/themes/perila/public/js/jquery.fancybox.pack.js
+t/home/alextraza/.local/share/vifm/Trash/000_jquery.fancybox.css
+	/srv/http/perila/engine/frontend/themes/perila/public/css/jquery.fancybox.css
+t/home/alextraza/.local/share/vifm/Trash/000_file.php
+	/srv/http/perila/engine/frontend/components/file.php
+t/home/alextraza/.local/share/vifm/Trash/000_composer.lock
+	/srv/http/perila/engine/composer.lock
+t/home/alextraza/.local/share/vifm/Trash/000_vendor
+	/srv/http/perila/engine/vendor
+t/home/alextraza/.local/share/vifm/Trash/000_startup.sh
+	/home/alextraza/bin/startup.sh
+t/home/alextraza/.local/share/vifm/Trash/000_vpn
+	/home/alextraza/bin/vpn
+t/home/alextraza/.local/share/vifm/Trash/000_vpn-route
+	/home/alextraza/bin/vpn-route
+t/home/alextraza/.local/share/vifm/Trash/000_extDiff
+	/home/alextraza/bin/extDiff
+t/home/alextraza/.local/share/vifm/Trash/000_extMerge
+	/home/alextraza/bin/extMerge
+t/home/alextraza/.local/share/vifm/Trash/000_git_diff_wrapper
+	/home/alextraza/bin/git_diff_wrapper
+t/home/alextraza/.local/share/vifm/Trash/000_gmail.py
+	/home/alextraza/bin/gmail.py
+t/home/alextraza/.local/share/vifm/Trash/000_lamp
+	/home/alextraza/bin/lamp
+t/home/alextraza/.local/share/vifm/Trash/000_phpcs
+	/home/alextraza/.config/composer/vendor/bin/phpcs
+t/home/alextraza/.local/share/vifm/Trash/000_Goods.xls
+	/home/alextraza/Dropbox/archive/Goods.xls
+t/home/alextraza/.local/share/vifm/Trash/000_glypher.eot
+	/home/alextraza/work/sprava/engine/frontend/themes/sprava/public/fonts/Glypher/glypher.eot
+t/home/alextraza/.local/share/vifm/Trash/000_glypher.svg
+	/home/alextraza/work/sprava/engine/frontend/themes/sprava/public/fonts/Glypher/glypher.svg
+t/home/alextraza/.local/share/vifm/Trash/000_glypher.ttf
+	/home/alextraza/work/sprava/engine/frontend/themes/sprava/public/fonts/Glypher/glypher.ttf
+t/home/alextraza/.local/share/vifm/Trash/000_glypher.woff
+	/home/alextraza/work/sprava/engine/frontend/themes/sprava/public/fonts/Glypher/glypher.woff
+t/home/alextraza/.local/share/vifm/Trash/000_7wohLoU1SwyYUVy0Xev7uG0HeFmsyJgbZvJqm05k
+	/home/alextraza/work/youcan/storage/framework/sessions/7wohLoU1SwyYUVy0Xev7uG0HeFmsyJgbZvJqm05k
+t/home/alextraza/.local/share/vifm/Trash/000_EmwNgcrQzLSkISikRf5DL3jxDDT9AziISiZPvH9q
+	/home/alextraza/work/youcan/storage/framework/sessions/EmwNgcrQzLSkISikRf5DL3jxDDT9AziISiZPvH9q
+t/home/alextraza/.local/share/vifm/Trash/000_eL8mM64HjoPJIkfx3sZ7ogTVBGOViGzo2tmzNLrA
+	/home/alextraza/work/youcan/storage/framework/sessions/eL8mM64HjoPJIkfx3sZ7ogTVBGOViGzo2tmzNLrA
+t/home/alextraza/.local/share/vifm/Trash/000_f7UylTuoptwKIrbKZnIkP7xY0HfsiTzJilGxT8Xm
+	/home/alextraza/work/youcan/storage/framework/sessions/f7UylTuoptwKIrbKZnIkP7xY0HfsiTzJilGxT8Xm
+t/home/alextraza/.local/share/vifm/Trash/000_vjXuC7xHBbW2lA9KMYlw8MnofJOQ2WesGVEhjlvr
+	/home/alextraza/work/youcan/storage/framework/sessions/vjXuC7xHBbW2lA9KMYlw8MnofJOQ2WesGVEhjlvr
+t/home/alextraza/.local/share/vifm/Trash/000_16405fa2629de47bcfd23179feb9c3e8ad5d0f07.php
+	/home/alextraza/work/youcan/storage/framework/views/16405fa2629de47bcfd23179feb9c3e8ad5d0f07.php
+t/home/alextraza/.local/share/vifm/Trash/000_a4a0832dc3cbee13f685bf8475fd65f7437dcc14.php
+	/home/alextraza/work/youcan/storage/framework/views/a4a0832dc3cbee13f685bf8475fd65f7437dcc14.php
+t/home/alextraza/.local/share/vifm/Trash/000_ccdc48eac7356e5f287058201725355ef2e23374.php
+	/home/alextraza/work/youcan/storage/framework/views/ccdc48eac7356e5f287058201725355ef2e23374.php
+t/home/alextraza/.local/share/vifm/Trash/000_dbase-5.0rc1.tgz
+	/home/alextraza/build/dbase/dbase-5.0rc1.tgz
+t/home/alextraza/.local/share/vifm/Trash/000_dbase
+	/home/alextraza/build/dbase
+t/home/alextraza/.local/share/vifm/Trash/000_Bon_Jovi-You_Give_Love_A_Bad_Name.m4a
+	/home/alextraza/Music/m4a/Bon_Jovi/Cross_Road/Bon_Jovi-You_Give_Love_A_Bad_Name.m4a
+t/home/alextraza/.local/share/vifm/Trash/000_xpm
+	/home/alextraza/.xmonad/xpm
+t/home/alextraza/.local/share/vifm/Trash/000_xmonad-x86_64-linux
+	/home/alextraza/.xmonad/xmonad-x86_64-linux
+t/home/alextraza/.local/share/vifm/Trash/000_xmonad.errors
+	/home/alextraza/.xmonad/xmonad.errors
+t/home/alextraza/.local/share/vifm/Trash/000_xmonad.hi
+	/home/alextraza/.xmonad/xmonad.hi
+t/home/alextraza/.local/share/vifm/Trash/000_xmonad.hs
+	/home/alextraza/.xmonad/xmonad.hs
+t/home/alextraza/.local/share/vifm/Trash/000_xmonad.o
+	/home/alextraza/.xmonad/xmonad.o
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].0
+]F
+s0

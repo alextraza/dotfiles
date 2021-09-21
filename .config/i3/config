@@ -1,0 +1,292 @@
+
+set $mod Mod4
+floating_modifier $mod
+
+# set $left  Left
+# set $down  Down
+# set $up    Up
+# set $right Right
+
+# hackerman VI-navigation (enable with caution)
+ set $left  h
+ set $down  j
+ set $up    k
+ set $right l
+
+# toggle floating state            |     i3viswiz
+# -----------------------------------------------
+bindsym $mod+Shift+space      exec --no-startup-id i3fyra --float
+# making a floating window tiled with the keybinding
+# above will automatically enable the i3fyra layout
+# on the active workspace.
+
+# splitsizes in the i3fyra layout
+# -----------------------------------------------
+set $layout 'AB=-350 AC=220 BD=252'
+
+gaps inner 10
+gaps outer -2
+
+smart_gaps on
+smart_borders on
+
+# by executing below command with i3 the layout
+# will be configured before it is created
+exec --no-startup-id i3fyra --layout $layout
+exec --no-startup-id volumeicon
+exec --no-startup-id picom
+exec --no-startup-id ~/bin/bgcarousel
+exec --no-startup-id ~/bin/i3-layout3-stack
+exec --no-startup-id numlockx on
+exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
+exec --no-startup-id nm-applet
+exec --no-startup-id udiskie --tray
+exec_always --no-startup-id sbxkb
+
+# use this keybinding to restore the layout
+#bindsym $mod+p exec --no-startup-id i3fyra --layout $layout
+#bindsym $mod+. move workspace to output right
+bindsym $mod+p move workspace to output right
+
+# change focus                     |     i3viswiz
+# -----------------------------------------------
+# bindsym $mod+$left            exec --no-startup-id i3viswiz left
+# bindsym $mod+$down            exec --no-startup-id i3viswiz down
+# bindsym $mod+$up              exec --no-startup-id i3viswiz up
+# bindsym $mod+$right           exec --no-startup-id i3viswiz right
+
+bindsym $mod+$left            focus left
+bindsym $mod+$down            focus down
+bindsym $mod+$up              focus up
+bindsym $mod+$right           focus right
+
+# focus within a group (flip tabs) |       i3flip
+# -----------------------------------------------
+bindsym $mod+Shift+Tab              exec --no-startup-id i3flip next
+# bindsym $mod+Shift+Tab        exec --no-startup-id i3flip perv
+bindsym $mod+Tab exec rofi -show window
+
+# move within a group             | i3flip --move
+# -----------------------------------------------
+bindsym $mod+w                exec --no-startup-id i3flip --move next
+bindsym $mod+q                exec --no-startup-id i3flip --move perv
+
+# move a window                   | i3Kornhe move
+# -----------------------------------------------
+bindsym $mod+Shift+$left      exec --no-startup-id i3Kornhe move --speed 0 left
+bindsym $mod+Shift+$down      exec --no-startup-id i3Kornhe move --speed 0 down
+bindsym $mod+Shift+$up        exec --no-startup-id i3Kornhe move --speed 0 up
+bindsym $mod+Shift+$right     exec --no-startup-id i3Kornhe move --speed 0 right
+
+# resize a window                 | i3Kornhe size
+# -----------------------------------------------
+bindsym $mod+Control+$left    exec --no-startup-id i3Kornhe size --speed 30 left
+bindsym $mod+Control+$down    exec --no-startup-id i3Kornhe size --speed 30 down
+bindsym $mod+Control+$up      exec --no-startup-id i3Kornhe size --speed 30 up
+bindsym $mod+Control+$right   exec --no-startup-id i3Kornhe size --speed 30 right
+
+bindsym $mod+Shift+minus move scratchpad
+#bindsym $mod+minus scratchpad show
+bindsym $mod+Control+Return scratchpad show
+
+# "sizemode" is needed for i3Kornhe to work. It is
+# entered automatically if the window is floating
+# and i3Kornhe move/size is executed
+mode "sizemode" {
+
+  bindsym $left               exec --no-startup-id i3Kornhe --speed 30 left
+  bindsym $down               exec --no-startup-id i3Kornhe --speed 30 down
+  bindsym $up                 exec --no-startup-id i3Kornhe --speed 30 up
+  bindsym $right              exec --no-startup-id i3Kornhe --speed 30 right
+
+  bindsym Shift+$left         exec --no-startup-id i3Kornhe --speed 5 left
+  bindsym Shift+$down         exec --no-startup-id i3Kornhe --speed 5 down
+  bindsym Shift+$up           exec --no-startup-id i3Kornhe --speed 5 up
+  bindsym Shift+$right        exec --no-startup-id i3Kornhe --speed 5 right
+
+  bindsym $mod+Control+$left  exec --no-startup-id i3Kornhe size left
+  bindsym $mod+Control+$down  exec --no-startup-id i3Kornhe size down
+  bindsym $mod+Control+$up    exec --no-startup-id i3Kornhe size up
+  bindsym $mod+Control+$right exec --no-startup-id i3Kornhe size right
+
+  bindsym m exec --no-startup-id i3Kornhe move --speed 0 left
+
+  bindsym 1 exec --no-startup-id i3Kornhe 1
+  bindsym 2 exec --no-startup-id i3Kornhe 2
+  bindsym 3 exec --no-startup-id i3Kornhe 3
+  bindsym 4 exec --no-startup-id i3Kornhe 4
+  bindsym 5 exec --no-startup-id i3Kornhe 5
+  bindsym 6 exec --no-startup-id i3Kornhe 6
+  bindsym 7 exec --no-startup-id i3Kornhe 7
+  bindsym 8 exec --no-startup-id i3Kornhe 8
+  bindsym 9 exec --no-startup-id i3Kornhe 9
+
+  bindsym Escape exec --no-startup-id i3Kornhe x
+}
+
+
+# combine all layout in $mod+e , frees
+
+
+
+# untouched from the default config:
+# ==================================
+
+# font pango:monospace 8
+font pango: M+ 1m, FontAwesome, 10
+
+force_focus_wrapping yes
+
+set $refresh_i3status killall -SIGUSR1 i3status
+bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +10% && $refresh_i3status
+bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -10% && $refresh_i3status
+bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
+bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
+
+# bindsym $mod+Return exec alacritty
+bindsym $mod+Return exec alacritty
+#
+# start dmenu (a program launcher)
+bindsym $mod+Shift+Return exec rofi -show run
+# There also is the (new) i3-dmenu-desktop which only displays applications
+# shipping a .desktop file. It is a wrapper around dmenu, so you need that
+# installed.
+# bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
+
+bindsym $mod+Shift+q kill
+
+bindsym $mod+d exec --no-startup-id dmenu_run
+
+# when using hackerman VI-navigation you will
+# change the binding below ($mod+h == $mod+$left)
+# bindsym $mod+h split h
+bindsym $mod+v split v
+
+bindsym $mod+a focus parent
+
+bindsym $mod+f focus mode_toggle
+
+bindsym $mod+space fullscreen toggle
+
+set $ws01 "1 Msg"
+set $ws02 "2 Web"
+set $ws03 "3 File"
+set $ws04 "4 Edit"
+set $ws05 "5 Video"
+set $ws06 "6"
+set $ws07 "7"
+set $ws08 "8"
+set $ws09 "9"
+set $ws10 "10"
+
+bindsym $mod+1 workspace number $ws01
+bindsym $mod+2 workspace number $ws02
+bindsym $mod+3 workspace number $ws03
+bindsym $mod+4 workspace number $ws04
+bindsym $mod+5 workspace number $ws05
+bindsym $mod+6 workspace number $ws06
+bindsym $mod+7 workspace number $ws07
+bindsym $mod+8 workspace number $ws08
+bindsym $mod+9 workspace number $ws09
+bindsym $mod+0 workspace number $ws10
+
+bindsym $mod+Shift+1 move container to workspace number $ws01
+bindsym $mod+Shift+2 move container to workspace number $ws02
+bindsym $mod+Shift+3 move container to workspace number $ws03
+bindsym $mod+Shift+4 move container to workspace number $ws04
+bindsym $mod+Shift+5 move container to workspace number $ws05
+bindsym $mod+Shift+6 move container to workspace number $ws06
+bindsym $mod+Shift+7 move container to workspace number $ws07
+bindsym $mod+Shift+8 move container to workspace number $ws08
+bindsym $mod+Shift+9 move container to workspace number $ws09
+bindsym $mod+Shift+0 move container to workspace number $ws10
+
+bindsym $mod+Shift+c reload
+bindsym $mod+Shift+r restart
+bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
+
+assign [class="firefox"] $ws02
+assign [instance="telegram-desktop"] $ws01
+
+for_window [class="VirtualBox"] floating enable
+for_window [instance="scratchpad"] floating enable
+
+# class                 border  backgr. text    indicator child_border
+client.focused          #458588 #458588 #fbf1c7 #458588   #458588
+client.focused_inactive #83a598 #83a598 #3c3836 #292d2e   #83a598
+client.unfocused        #a89984 #a89984 #3c3836 #484e50   #a89984
+client.urgent           #cc241d #cc241d #ebdbb2 #900000   #900000
+client.placeholder      #000000 #0c0c0c #ebdbb2 #000000   #0c0c0c
+
+client.background       #ffffff
+
+
+bar {
+        status_command /home/$USER/.config/i3/conky/i3status.sh
+        position top
+        colors {
+               background #3c3836
+               statusline #ebdbb2
+               separator #fe9019
+
+        # class            border    backgrd   text
+        focused_workspace  #282828   #458588   #fbf1c7
+        active_workspace   #282828   #83a598   #1d2021
+        inactive_workspace #282828   #1d2021   #dbdbb2
+        urgent_workspace   #282828   #cc241d   #ffffff
+        }
+}
+
+
+
+
+# below are default bindings replaced by i3ass
+# ============================================
+
+# floating toggle --> i3fyra --float
+# -----------------------------------
+# bindsym $mod+Shift+space floating toggle
+
+# focus --> i3viswiz
+# -----------------------------------------------
+
+# bindsym $mod+$left   focus left
+# bindsym $mod+$down   focus down
+# bindsym $mod+$up     focus up
+# bindsym $mod+$right  focus right
+
+# move/resize --> i3Kornhe
+# -----------------------------------------------
+
+# bindsym $mod+Shift+$left  move left
+# bindsym $mod+Shift+$down  move down
+# bindsym $mod+Shift+$up    move up
+# bindsym $mod+Shift+$right move right
+
+# mode "resize" {
+        # bindsym $left resize shrink width 10 px or 10 ppt
+        # bindsym $up resize grow height 10 px or 10 ppt
+        # bindsym $down resize shrink height 10 px or 10 ppt
+        # bindsym $right resize grow width 10 px or 10 ppt
+
+        # bindsym Return mode "default"
+        # bindsym Escape mode "default"
+        # bindsym $mod+r mode "default"
+# }
+
+# No need for a separate bindin to enter the mode
+# -----------------------------------------------
+# bindsym $mod+r mode "resize"
+
+# Use one keybinding for all layout toggling
+# -----------------------------------------------
+
+bindsym $mod+s layout stacking
+# bindsym $mod+w layout tabbed
+
+bindsym Print exec flameshot gui
+bindsym $mod+u [urgent=latest] focus
+
+#bindsym $mod+Control+Return exec --no-startup-id  \
+#i3run --summon --mouse --instance scratchpad                       \
+#-- sakura --name scratchpad
