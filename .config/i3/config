@@ -125,8 +125,12 @@ mode "sizemode" {
 }
 
 
-# combine all layout in $mod+e , frees
 
+# combine all layout in $mod+e , frees up $mod+w
+# (used for: i3flip --move next)
+# bindsym $mod+w layout tabbed
+bindsym $mod+s layout stacking
+bindsym $mod+e layout toggle splith splitv tabbed stacking
 
 
 # untouched from the default config:
@@ -167,6 +171,9 @@ bindsym $mod+a focus parent
 bindsym $mod+f focus mode_toggle
 
 bindsym $mod+space fullscreen toggle
+
+bindsym Print exec flameshot gui
+bindsym $mod+u [urgent=latest] focus
 
 set $ws01 "1 Msg"
 set $ws02 "2 Web"
@@ -280,13 +287,3 @@ bar {
 
 # Use one keybinding for all layout toggling
 # -----------------------------------------------
-
-bindsym $mod+s layout stacking
-# bindsym $mod+w layout tabbed
-
-bindsym Print exec flameshot gui
-bindsym $mod+u [urgent=latest] focus
-
-#bindsym $mod+Control+Return exec --no-startup-id  \
-#i3run --summon --mouse --instance scratchpad                       \
-#-- sakura --name scratchpad
