@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: foreach (...) {...}
+# key: foreach
+# uuid: foreach
+# --
+<?php foreach (${1:$collection} as ${2:$var}) : ?>
+    `%`$0
+<?php endforeach; ?>

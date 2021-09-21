@@ -36,7 +36,7 @@ exec --no-startup-id i3fyra --layout $layout
 exec --no-startup-id volumeicon
 exec --no-startup-id picom
 exec --no-startup-id ~/bin/bgcarousel
-exec --no-startup-id ~/bin/i3-layout3-stack
+# exec --no-startup-id ~/bin/i3-layout3-stack
 exec --no-startup-id numlockx on
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 exec --no-startup-id nm-applet

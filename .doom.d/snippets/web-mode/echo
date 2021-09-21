@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: <? echo ... ?>
+# uuid: echo
+# key: echo
+# condition: t
+# --
+
+<?php echo $0; ?>

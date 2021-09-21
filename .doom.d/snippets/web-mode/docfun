@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: dockbloc for method
+# uuid:
+# key: docfun
+# condition: t
+# --
+/**
+ * $1
+ *
+ * @var $2
+ *
+ * @return $3
+ */

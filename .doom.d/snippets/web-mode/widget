@@ -1,0 +1,26 @@
+# -*- mode: snippet -*-
+# name: widget
+# uuid:
+# key: widget
+# condition: t
+# --
+
+<?php
+
+namespace frontend\widgets;
+
+class $1Widget extends Widgets
+{
+    public $header;
+
+    public function init()
+    {
+        parent::init();
+        $2
+    }
+
+    public run()
+    {
+        $3
+    }
+}

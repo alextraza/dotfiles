@@ -1,0 +1,17 @@
+# -*- mode: snippet -*-
+# name: modal window
+# uuid: modal
+# key: modal
+# condition: t    
+# --
+
+<div id="#$1" class="modal">
+    <div class="modal__overlay">
+        <div class="modal__window">
+            <div class="modal__close">&times;</div>
+            <div class="modal__inner">
+                $2
+            </div>
+        </div>
+    </div>
+</div>
