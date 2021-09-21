@@ -11,7 +11,7 @@
 " If you would like to use another vi clone such as Elvis or Vile
 " you will need to change this setting.
 
-set vicmd="vim"
+set vicmd="emacs &"
 " set vicmd=elvis\ -G\ termcap
 " set vicmd=vile
 
@@ -245,12 +245,9 @@ filextype *.bmp,*.jpg,*.jpeg,*.png,*.gif,*.xpm
         \ {View in cacaview}
         \ cacaview %c &,
 fileviewer *.bmp,*.jpg,*.jpeg,*.png,*.xpm
-        "\ vifmimg draw %px %py %pw %ph %c
-        "\ %pc
-        "\ vifmimg clear
-        \ vifm-sixel draw %pw %ph %c %pd
+        \ vifmimg draw %px %py %pw %ph %c
         \ %pc
-        \ vifm-sixel clear
+        \ vifmimg clear
 
 fileviewer *.gif
         \ vifmimg gifpreview %px %py %pw %ph %c
