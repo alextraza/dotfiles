@@ -72,7 +72,13 @@
 (add-to-list 'auto-mode-alist '("\\.mustache\\'" . web-mode))
 (add-to-list 'auto-mode-alist '("\\.djhtml\\'" . web-mode))
 (add-hook! web-mode
-           (flycheck-select-checker 'web-php))
+  (flycheck-select-checker 'web-php)
+ (setq web-mode-ac-sources-alist
+      '(("css" . (ac-source-words-in-buffer ac-source-css-property))
+        ("html" . (ac-source-words-in-buffer ac-source-abbrev))
+        ("php" . (ac-source-words-in-buffer
+                  ac-source-words-in-same-mode-buffers
+                  ac-source-dictionary)))))
 
 (map! :ne "SPC t v" #'visual-line-mode)
 (map! :ne "SPC o n" #'neotree-toggle)
