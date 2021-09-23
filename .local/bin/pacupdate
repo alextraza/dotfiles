@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cupd=$(pacman -Qu | wc -l)
+echo "$cupd updates"

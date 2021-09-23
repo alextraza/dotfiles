@@ -1,0 +1,26 @@
+#!/bin/bash
+
+
+#################################################################
+
+
+#set the directory from where wallpapers are to be choosed 
+DIR="$HOME/Pictures/exported"
+
+#set the time interval for transition of wallpaper in minutes
+TIME=15
+
+while true
+
+	do
+		for f in $DIR/*
+			do
+		
+				`exec feh --randomize --bg-fill $DIR/*`
+		
+				sleep $[ $TIME*60 ]
+			done
+	done
+
+
+###################################################################

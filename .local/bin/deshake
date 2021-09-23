@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+set -e
+
+OUTDIR="stab"
+FILE="$1"
+
+mkdir -p "$OUTDIR"
+
+ffmpeg -i "$FILE" -vf vidstabdetect=shakiness=10:accuracy=15:result="mytransforms.trf" -f null -
+ffmpeg -i "$FILE" -vf vidstabtransform=input="mytransforms.trf":smoothing=10:optalgo=avg,unsharp=5:5:0.8:3:3:0.4 "$OUTDIR/${FILE##*/}"
