@@ -42,11 +42,11 @@ TEXT
     {"full_text" : "", "color" : "\#b8bb26", "separator":false},
     { "full_text" : "${fs_free /home}" , "color" : "\#ebdbb2" },
 
-#    # RAM
+#   # RAM
     { "full_text" : " ${memperc}%" , "color" : \
     ${if_match ${memperc}<80}"\#ebdbb2"${else}"\#cc241d"${endif} },
 
-#    # CPU
+#   # CPU
     { "full_text" : " ${cpu}% ${freq_g 1}GHz", "color" : \
     ${if_match ${cpu}<70}"\#ebdbb2"${else}"\#cc241d"${endif}},
     #{ "full_text" : "  ${cpu}% ", "color" : \
@@ -95,6 +95,9 @@ TEXT
 
 # Volume
 #{ "full_text" : "  ${exec amixer get Master -M | grep -oE -m1 "[[:digit:]]*%"}", "color" : "\#ffffff"},
+
+#   # need xkblayout-state installed
+    {"full_text": " ${exec ~/bin/mykb}", "color" : "\#ebdbb2"},
 
 # Date
 { "full_text" : " ${time %A %d.%m.%y}" , "color" : "\#d65d0e" },

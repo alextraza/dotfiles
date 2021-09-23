@@ -41,7 +41,7 @@ exec --no-startup-id numlockx on
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 exec --no-startup-id nm-applet
 exec --no-startup-id udiskie --tray
-exec_always --no-startup-id sbxkb
+# exec_always --no-startup-id sbxkb
 
 # use this keybinding to restore the layout
 #bindsym $mod+p exec --no-startup-id i3fyra --layout $layout
