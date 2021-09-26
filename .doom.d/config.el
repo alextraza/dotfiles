@@ -299,3 +299,6 @@ See URL `http://php.net/manual/en/features.commandline.php'."
   ((error line-start (or "Parse" "Fatal" "syntax") " error" (any ":" ",") " "
           (message) " in " (file-name) " on line " line line-end))
   :modes (php-mode php+-mode web-mode))
+
+(setq telega-use-docker t)
+(define-key global-map (kbd "C-c t") telega-prefix-map)

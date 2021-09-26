@@ -50,3 +50,4 @@
 ;(unpin! t)
 
 (package! reverse-im)
+(package! telega)
