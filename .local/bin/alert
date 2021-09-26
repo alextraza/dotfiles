@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+paplay $HOME/.config/dunst/mes.wav
