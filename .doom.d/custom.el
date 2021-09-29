@@ -21,6 +21,8 @@
  '(pdf-view-midnight-colors (cons "#bbc2cf" "#282c34"))
  '(rustic-ansi-faces
    ["#282c34" "#ff6c6b" "#98be65" "#ECBE7B" "#51afef" "#c678dd" "#46D9FF" "#bbc2cf"])
+ '(telega-emoji-font-family nil)
+ '(telega-language "ru")
  '(vc-annotate-background "#282c34")
  '(vc-annotate-color-map
    (list

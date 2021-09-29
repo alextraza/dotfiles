@@ -19,7 +19,7 @@
 ;;
 ;; They all accept either a font-spec, font string ("Input Mono-12"), or xlfd
 ;; font string. You generally only need these two:
-;; (setq doom-font (font-spec :family "monospace" :size 12 :weight 'semi-light)
+; (setq doom-font (font-spec :family "monospace" :size 12 :weight 'semi-light)
 ;;       doom-variable-pitch-font (font-spec :family "sans" :size 13))
 
 ;; There are two ways to load a theme. Both assume the theme is installed and
@@ -300,5 +300,9 @@ See URL `http://php.net/manual/en/features.commandline.php'."
           (message) " in " (file-name) " on line " line line-end))
   :modes (php-mode php+-mode web-mode))
 
-(setq telega-use-docker t)
-(define-key global-map (kbd "C-c t") telega-prefix-map)
+;; telega
+(setq telega-use-docker t) ;; use docker for start telega-server
+(define-key global-map (kbd "C-c t") telega-prefix-map) ;; set global key for telega
+(define-key global-map (kbd "C-M-t") 'telega) ;; start telega
+(add-hook 'telega-load-hook 'telega-notifications-mode) ;; enable notifications
+;; (add-hook 'telega-load-hook 'telega-mode-line-mode) ;; show status in statusline
