@@ -306,3 +306,4 @@ See URL `http://php.net/manual/en/features.commandline.php'."
 (define-key global-map (kbd "C-M-t") 'telega) ;; start telega
 (add-hook 'telega-load-hook 'telega-notifications-mode) ;; enable notifications
 ;; (add-hook 'telega-load-hook 'telega-mode-line-mode) ;; show status in statusline
+(add-hook 'telega-load-hook 'telega-appindicator-mode)
