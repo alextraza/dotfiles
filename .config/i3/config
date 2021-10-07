@@ -32,15 +32,16 @@ smart_borders on
 
 # by executing below command with i3 the layout
 # will be configured before it is created
-exec --no-startup-id ~/bin/bgcarousel
-exec --no-startup-id i3fyra --layout $layout
-exec --no-startup-id volumeicon
-exec --no-startup-id picom
+exec --no-startup-id dunst &
+exec --no-startup-id ~/bin/bgcarousel &
+exec --no-startup-id i3fyra --layout $layout &
+exec --no-startup-id volumeicon &
+exec --no-startup-id picom &
 # exec --no-startup-id ~/bin/i3-layout3-stack
-exec --no-startup-id numlockx on
+# exec --no-startup-id numlockx on
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
-exec --no-startup-id nm-applet
-exec --no-startup-id udiskie --tray
+exec --no-startup-id nm-applet &
+exec --no-startup-id udiskie --tray &
 # exec_always --no-startup-id sbxkb
 
 # use this keybinding to restore the layout
