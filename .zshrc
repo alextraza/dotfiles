@@ -98,4 +98,5 @@ alias lst='exa -aT --color=always --group-directories-first' # tree listing
 alias l.='exa -a | egrep "^\."'
 
 #shell-color-scripts
-colorscript random
+#colorscript random
+cowfortune
