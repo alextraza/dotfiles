@@ -9,7 +9,7 @@ conky.config = {
 	max_text_width = 0,
 
 -- Update interval in seconds
-	update_interval = 1.0,
+	update_interval = 2.0,
 
 -- This is the number of times Conky will update before quitting.
 -- Set to zero to run forever.
@@ -41,20 +41,24 @@ conky.text = [=[
 
 # JSON for i3bar
 [
-#    # Free storage space in /home
-    {"full_text" : "", "color" : "\#d65d0e", "separator":false,"separator_block_width":3},
-    {"full_text" : "${fs_free /}" , "color" : "\#ebdbb2" },
+    # now playing in ncspot
+    {"full_text": "${exec ~/bin/now_play.sh}", "color" : "\#83a598","separator":false,"separator_block_width":40},
 
+#    # Free storage space in root
+    {"full_text" : "", "color" : "\#d65d0e", "separator":false,"separator_block_width":3},
+    {"full_text" : "${fs_free /}" , "color" : "\#ebdbb2" ,"separator_block_width":16},
+
+#    # Free storage space in /home
     {"full_text" : "", "color" : "\#b8bb26", "separator":false,"separator_block_width":3},
-    {"full_text" : "${fs_free /home/alextraza/.data}" , "color" : "\#ebdbb2" },
+    {"full_text" : "${fs_free /home/alextraza/.data}" , "color" : "\#ebdbb2" ,"separator_block_width":16},
 
 #   # RAM
     {"full_text":"", "color":"\#fabd2f","separator":false,"separator_block_width":3},
-    {"full_text":"${if_match ${memperc} < 40}${memperc}%","color":"\#ebdbb2","separator":true,"separator_block_width":6},\
+    {"full_text":"${if_match ${memperc} < 40}${memperc}%","color":"\#ebdbb2","separator":true,"separator_block_width":16},\
     {"full_text":"${else}"},\
-    {"full_text":"${if_match ${memperc} < 80}${memperc}%","color":"\#d79921","separator":true,"separator_block_width":6},\
+    {"full_text":"${if_match ${memperc} < 80}${memperc}%","color":"\#d79921","separator":true,"separator_block_width":16},\
     {"full_text":"${else}"},\
-    {"full_text":"${if_match ${memperc} >= 80}${memperc}%","color":"\#cc241d","separator":true,"separator_block_width":6},\
+    {"full_text":"${if_match ${memperc} >= 80}${memperc}%","color":"\#cc241d","separator":true,"separator_block_width":16},\
     {"full_text":"${endif}${endif}${endif}"},
 
 #   # CPU
@@ -65,16 +69,19 @@ conky.text = [=[
     {"full_text":"${else}"},\
     {"full_text":"${if_match ${cpu} >= 80}${cpu}%","color":"\#cc241d","separator":false,"separator_block_width":10},\
     {"full_text":"${endif}${endif}${endif}"},\
-    {"full_text": "${freq_g 1}GHz"},
+    {"full_text": "${freq_g 1}GHz","separator_block_width":16},
 
-{"full_text": "↑ ${uptime_short} ","color": "\#9ec07c"},
+{"full_text": " ${uptime_short}","color": "\#9ec07c","separator_block_width":16},
     # Networking
     # You might want to change wls2, ens3f1 ans enp0s20u1 to whatever
     # your `ifconfig` command is saying.
     #
     # For most debian/ubuntu changing wls2 to wlan0, ens3f1 to eth0 and
     # enp0s20u1 should work.
-    ${if_up wlan0} { "full_text" : " (${wireless_essid wlan0}) ${addr wlan0} ${downspeed wlan0}/s ${upspeed wlan0}/s" , "color" : "\#fabd2f" }, ${else}\
+    ${if_up wlan0} { "full_text" : " (${wireless_essid wlan0}) ${addr wlan0}" , "color" : "\#fabd2f", "separator":false },\
+    {"full_text":"${downspeed wlan0}/s","color":"\#8ec07c", "separator":false},\
+    {"full_text":"${upspeed wlan0}/s","color":"\#d3869b", "separator":true,"separator_block_width":16},\
+    ${else}\
         ${if_up eth0} { "full_text" : "Eth: ${addr eth0}" , "color" : "\#00ff00" }, ${else}\
            ${if_up enp0s20u1} { "full_text" : "USB: ${addr enp0s20u1}" , "color" :"\#00ff00" }, ${else}\
                 { "full_text" : "No Network" , "color" : "\#ff0000" },\
