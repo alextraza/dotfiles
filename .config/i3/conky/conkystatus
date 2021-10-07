@@ -39,15 +39,17 @@ TEXT
 # JSON for i3bar
 [
 #    # Free storage space in /home
-    {"full_text" : "", "color" : "\#b8bb26", "separator":false},
-    { "full_text" : "${fs_free /home}" , "color" : "\#ebdbb2" },
+    {"full_text" : "", "color" : "\#d65d0e", "separator":false},{"full_text" : "${fs_free /}" , "color" : "\#ebdbb2" },
+
+    {"full_text" : "", "color" : "\#b8bb26", "separator":false},
+    {"full_text" : "${fs_free /home/alextraza/.data}" , "color" : "\#ebdbb2" },
 
 #   # RAM
     { "full_text" : " ${memperc}%" , "color" : \
     ${if_match ${memperc}<80}"\#ebdbb2"${else}"\#cc241d"${endif} },
 
 #   # CPU
-    { "full_text" : " ${cpu}% ${freq_g 1}GHz", "color" : \
+    { "full_text" : " ${cpu}% ${freq_g 1}GHz", "color" : \
     ${if_match ${cpu}<70}"\#ebdbb2"${else}"\#cc241d"${endif}},
     #{ "full_text" : "  ${cpu}% ", "color" : \
     #${if_match ${cpu}<90}"\#ebdbb2"${else}"\#cc241d"${endif}},
@@ -59,7 +61,7 @@ TEXT
     #
     # For most debian/ubuntu changing wls2 to wlan0, ens3f1 to eth0 and
     # enp0s20u1 should work.
-    ${if_up wlp0s29f7u5} { "full_text" : " (${wireless_essid wlp0s29f7u5}) ${addr wlp0s29f7u5} ${downspeed wlp0s29f7u5}/s ${upspeed wlp0s29f7u5}/s" , "color" : "\#fabd2f" }, ${else}\
+    ${if_up wlan0} { "full_text" : " (${wireless_essid wlan0}) ${addr wlan0} ${downspeed wlan0}/s ${upspeed wlan0}/s" , "color" : "\#fabd2f" }, ${else}\
         ${if_up eth0} { "full_text" : "Eth: ${addr eth0}" , "color" : "\#00ff00" }, ${else}\
            ${if_up enp0s20u1} { "full_text" : "USB: ${addr enp0s20u1}" , "color" :"\#00ff00" }, ${else}\
                 { "full_text" : "No Network" , "color" : "\#ff0000" },\
