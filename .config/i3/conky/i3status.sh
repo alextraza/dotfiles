@@ -15,4 +15,4 @@ echo '['
 echo '[],'
 
 # Now send blocks with information forever:
-exec conky -c "$scripts/conkystatus"
+exec conky -c "$scripts/conkyrc_new"
