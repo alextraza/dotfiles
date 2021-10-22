@@ -1,5 +1,5 @@
 # Path to your oh-my-zsh installation.
-export ZSH=$HOME/oh-my-zsh
+export ZSH=$HOME/.local/share/oh-my-zsh
 export TERM=xterm-256color
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
@@ -52,7 +52,7 @@ source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
-export PATH=$HOME/bin:/usr/local/bin:$HOME/.config/composer/vendor/bin:$HOME/.local/bin:$PATH
+# export PATH=$HOME/bin:/usr/local/bin:$HOME/.config/composer/vendor/bin:$HOME/.local/bin:$PATH
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
