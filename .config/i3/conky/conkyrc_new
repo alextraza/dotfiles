@@ -42,7 +42,7 @@ conky.text = [=[
 # JSON for i3bar
 [
     # now playing in ncspot
-    {"full_text": "${exec ~/bin/now_play.sh}", "color" : "\#83a598","separator":false,"separator_block_width":40},
+    {"full_text": "${exec ~/.local/bin/now_play.sh}", "color" : "\#83a598","separator":false,"separator_block_width":40},
 
 #    # Free storage space in root
     {"full_text" : "", "color" : "\#d65d0e", "separator":false,"separator_block_width":3},
@@ -50,7 +50,7 @@ conky.text = [=[
 
 #    # Free storage space in /home
     {"full_text" : "", "color" : "\#b8bb26", "separator":false,"separator_block_width":3},
-    {"full_text" : "${fs_free /home/alextraza/.data}" , "color" : "\#ebdbb2" ,"separator_block_width":16},
+    {"full_text" : "${fs_free /home}" , "color" : "\#ebdbb2" ,"separator_block_width":16},
 
 #   # RAM
     {"full_text":"", "color":"\#fabd2f","separator":false,"separator_block_width":3},
@@ -93,7 +93,7 @@ conky.text = [=[
 #{ "full_text" : "  ${exec amixer get Master -M | grep -oE -m1 "[[:digit:]]*%"}", "color" : "\#ffffff"},
 
 #   # need xkblayout-state installed
-    {"full_text": " ${exec ~/bin/mykb}", "color" : "\#ebdbb2"},
+    {"full_text": " ${exec ~/.local/bin/mykb}", "color" : "\#ebdbb2"},
 
 # Date
 { "full_text" : " ${time %a %d.%m}" , "color" : "\#d65d0e" },
