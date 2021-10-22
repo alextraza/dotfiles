@@ -267,12 +267,6 @@ Formatting is done according to the js-beautify command."
   "Format the current buffer according to the js-beautify command."
   (web-beautify-format-buffer web-beautify-js-program))
 
- ;;;dvorak mode
-;(use-package evil-dvorak
-  ;:ensure t
-  ;:config (global-evil-dvorak-mode 1)
-  ;:diminish evil-dvorak-mode)
-
 (provide 'web-beautify)
 
 ;; Local Variables:
