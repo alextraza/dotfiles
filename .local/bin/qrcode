@@ -3,10 +3,10 @@
 echo Paste your message or link to generate a QR code:
 read -r code
 
-qrencode -m 10 -o qrcode.png "$code"
+qrencode -m 10 -o .cache/qrcode.png "$code"
 
 sleep 1
 
 echo "QR Code has been generated as ~/qrcode.png. Launching with Feh."
 
-feh ~/qrcode.png
+feh ~/.cache/qrcode.png
