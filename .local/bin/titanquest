@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+~/Games/PortProton/data/scripts/start.sh ~/Games/Titan\ Quest\ Anniversary\ Edition\ Atlantis/TQ.exe
