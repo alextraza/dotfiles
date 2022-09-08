@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+~/Games/PortProton/data/scripts/start.sh ~/Games/X3-Reunion/X3.EXE

@@ -1,6 +1,7 @@
 #!/usr/bin/env sh
 
 PLAYER="ncspot"
+#PLAYER="spotify"
 
 pgrep "$PLAYER" >/dev/null || exit 0
 

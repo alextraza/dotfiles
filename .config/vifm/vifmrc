@@ -196,6 +196,13 @@ filextype *.djvu
         \ {View in apvlv}
         \ apvlv %f,
 
+" markdown
+filextype *.md
+          \ {View in remarkable}
+          \ remarkable %f,
+          \ {View in mdcat}
+          \ alacritty -e mdcat %f,
+
 " Audio
 filetype *.wav,*.mp3,*.flac,*.m4a,*.wma,*.ape,*.ac3,*.og[agx],*.spx,*.opus
        \ {Play using ffplay}
@@ -341,6 +348,11 @@ filetype *.iso
        \ {Mount with fuseiso}
        \ FUSE_MOUNT|fuseiso %SOURCE_FILE %DESTINATION_DIR,
 
+" IsoMount
+filetype *.mdf
+       \ {Mount with fuseiso}
+       \ FUSE_MOUNT|fuseiso %SOURCE_FILE %DESTINATION_DIR,
+
 " SshMount
 filetype *.ssh
        \ {Mount with sshfs}
@@ -353,6 +365,8 @@ filetype *.ftp
 
 " Fuse7z and 7z archives
 filetype *.7z
+       \ {Mount with fuse3-p7zip}
+       \ FUSE_MOUNT|fuse3-p7zip %SOURCE_FILE %DESTINATION_DIR,
        \ {Mount with fuse-7z}
        \ FUSE_MOUNT|fuse-7z %SOURCE_FILE %DESTINATION_DIR,
 fileviewer *.7z 7z l %c

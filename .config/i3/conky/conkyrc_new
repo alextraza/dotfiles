@@ -71,7 +71,15 @@ conky.text = [=[
     {"full_text":"${endif}${endif}${endif}"},\
     {"full_text": "${freq_g 1}GHz","separator_block_width":16},
 
-{"full_text": " ${uptime_short}","color": "\#9ec07c","separator_block_width":16},
+    {"full_text" : "", "color" : "\#d65d0e", "separator":false,"separator_block_width":3},
+    {"full_text":"${if_match ${hwmon 1 temp 1cpu} < 40}${hwmon 1 temp 1}°","color":"\#ebdbb2","separator_block_width":10},\
+    {"full_text":"${else}"},\
+    {"full_text":"${if_match ${hwmon 1 temp 1cpu} < 60}${hwmon 1 temp 1cpu}°%","color":"\#d79921","separator_block_width":10},\
+    {"full_text":"${else}"},\
+    {"full_text":"${if_match ${hwmon 1 temp 1cpu} >= 60}${hwmon 1 temp 1cpu}°%","color":"\#cc241d","separator_block_width":10},\
+    {"full_text":"${endif}${endif}${endif}"},\
+
+# {"full_text": " ${uptime_short}","color": "\#9ec07c","separator_block_width":16},
     # Networking
     # You might want to change wls2, ens3f1 ans enp0s20u1 to whatever
     # your `ifconfig` command is saying.

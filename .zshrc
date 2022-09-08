@@ -83,6 +83,7 @@ fi
 alias df='df -h'                                #human-readable sizes
 alias free="free -m"
 alias vifm='$HOME/.config/vifm/scripts/vifmrun'
+alias copy='xclip -selection clipboard'
 
 #emacs
 alias em="emacs -nw"
@@ -97,6 +98,6 @@ alias ll='exa -l --color=always --group-directories-first'  # long format
 alias lst='exa -aT --color=always --group-directories-first' # tree listing
 alias l.='exa -a | egrep "^\."'
 
-#shell-color-scripts
-#colorscript random
-cowfortune
+# show renderd markdown
+alias mrkd='grip -b'
+neofetch

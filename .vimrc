@@ -377,7 +377,7 @@ if has("gui_running")
     set guioptions -=m
     set nomousehide
     set guioptions -=LlRrb
-    set guifont=Cousine\ for\ Powerline\ 12
+    set guifont=FiraCode\ Nerd\ Font\ 12
 
     set guicursor +=a:blinkon0
 endif

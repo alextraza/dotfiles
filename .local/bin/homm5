@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+~/Games/PortProton/data/scripts/start.sh ~/Games/homm5/Hammers\ of\ Fate/bin/H5_Game.exe

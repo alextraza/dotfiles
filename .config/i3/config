@@ -32,16 +32,18 @@ smart_borders on
 
 # by executing below command with i3 the layout
 # will be configured before it is created
-#exec --no-startup-id volumeicon
-exec --no-startup-id dunst &
-exec --no-startup-id ~/.local/bin/bgcarousel &
-exec --no-startup-id i3fyra --layout $layout &
-exec --no-startup-id picom &
+exec volumeicon &
+exec --no-startup-id dunst
+#exec --no-startup-id deadd-notification-center &
+exec --no-startup-id ~/.local/bin/bgcarousel
+exec --no-startup-id i3fyra --layout $layout
+exec --no-startup-id picom
+exec --no-startup-id crow
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
-exec --no-startup-id udiskie --tray &
+exec --no-startup-id udiskie --tray
 
 # exec --no-startup-id ~/bin/i3-layout3-stack
-# exec --no-startup-id numlockx on
+exec --no-startup-id numlockx on
 #exec --no-startup-id nm-applet &
 # exec_always --no-startup-id sbxkb
 
@@ -67,7 +69,11 @@ bindsym $mod+$right           focus right
 bindsym $mod+Shift+Tab              exec --no-startup-id i3flip next
 # bindsym $mod+Shift+Tab        exec --no-startup-id i3flip perv
 bindsym $mod+Tab exec rofi -show window -font "FiraCode Nerd Font 12"
+bindsym $mod+Shift+Control+Return exec rofi -show drun -font "FiraCode Nerd Font 12" -icon-theme "Papirus" -show-icons
 bindsym $mod+o exec rofi -show emoji -modi emoji -font "FiraCode Nerd Font 12"
+bindsym $mod+b exec wifi-menu.sh
+bindsym $mod+Shift+b exec --no-startup-id bluetooth-menu.sh
+bindsym $mod+Shift+u exec usb-menu.sh
 
 # move within a group             | i3flip --move
 # -----------------------------------------------
@@ -91,6 +97,7 @@ bindsym $mod+Control+$right   exec --no-startup-id i3Kornhe size --speed 30 righ
 bindsym $mod+Shift+minus move scratchpad
 #bindsym $mod+minus scratchpad show
 bindsym $mod+Control+Return scratchpad show
+bindsym $mod+n                exec kill -s USR1 $(pidof deadd-notification-center)
 
 # "sizemode" is needed for i3Kornhe to work. It is
 # entered automatically if the window is floating
@@ -220,6 +227,7 @@ assign [instance="telegram-desktop"] $ws01
 
 for_window [class="VirtualBox"] floating enable
 for_window [class="Yad"] floating enable
+for_window [class="Galculator"] floating enable
 for_window [instance="scratchpad"] floating enable
 
 # class                 border  backgr. text    indicator child_border
@@ -233,19 +241,20 @@ client.background       #ffffff
 
 
 bar {
-        status_command /home/$USER/.config/i3/conky/i3status.sh
-        position top
-        colors {
-               background #3c3836
-               statusline #ebdbb2
-               separator #fe9019
+  status_command /home/$USER/.config/i3/conky/i3status.sh
+  position top
+  tray_output primary
+  colors {
+    background #3c3836
+    statusline #ebdbb2
+    separator #fe9019
 
-        # class            border    backgrd   text
-        focused_workspace  #282828   #458588   #fbf1c7
-        active_workspace   #282828   #83a598   #1d2021
-        inactive_workspace #282828   #1d2021   #dbdbb2
-        urgent_workspace   #282828   #cc241d   #ffffff
-        }
+    # class            border    backgrd   text
+    focused_workspace  #282828   #458588   #fbf1c7
+    active_workspace   #282828   #83a598   #1d2021
+    inactive_workspace #282828   #1d2021   #dbdbb2
+    urgent_workspace   #282828   #cc241d   #ffffff
+  }
 }
 
 
