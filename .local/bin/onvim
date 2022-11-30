@@ -1,4 +1,4 @@
 #!/bin/bash
 # termite -e "vim --servername FMASTER --remote-silent $1"
 #subl3 $1
-emacsclient "$1"
+emacsclient.sh "$1"

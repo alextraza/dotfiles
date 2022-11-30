@@ -15,7 +15,7 @@ floating_modifier $mod
 
 # toggle floating state            |     i3viswiz
 # -----------------------------------------------
-bindsym $mod+Shift+space      exec --no-startup-id i3fyra --float
+#bindsym $mod+Shift+space      exec --no-startup-id i3fyra --float
 # making a floating window tiled with the keybinding
 # above will automatically enable the i3fyra layout
 # on the active workspace.
@@ -32,7 +32,7 @@ smart_borders on
 
 # by executing below command with i3 the layout
 # will be configured before it is created
-exec volumeicon &
+exec --no-startup-idvolumeicon
 exec --no-startup-id dunst
 #exec --no-startup-id deadd-notification-center &
 exec --no-startup-id ~/.local/bin/bgcarousel
@@ -97,7 +97,7 @@ bindsym $mod+Control+$right   exec --no-startup-id i3Kornhe size --speed 30 righ
 bindsym $mod+Shift+minus move scratchpad
 #bindsym $mod+minus scratchpad show
 bindsym $mod+Control+Return scratchpad show
-bindsym $mod+n                exec kill -s USR1 $(pidof deadd-notification-center)
+#bindsym $mod+n                exec kill -s USR1 $(pidof deadd-notification-center)
 
 # "sizemode" is needed for i3Kornhe to work. It is
 # entered automatically if the window is floating
@@ -228,6 +228,7 @@ assign [instance="telegram-desktop"] $ws01
 for_window [class="VirtualBox"] floating enable
 for_window [class="Yad"] floating enable
 for_window [class="Galculator"] floating enable
+for_window [class="qalculate-qt"] floating enable
 for_window [instance="scratchpad"] floating enable
 
 # class                 border  backgr. text    indicator child_border
@@ -265,7 +266,7 @@ bar {
 
 # floating toggle --> i3fyra --float
 # -----------------------------------
-# bindsym $mod+Shift+space floating toggle
+bindsym $mod+Shift+space floating toggle
 
 # focus --> i3viswiz
 # -----------------------------------------------

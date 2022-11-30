@@ -60,9 +60,9 @@ source $ZSH/oh-my-zsh.sh
 
 # Preferred editor for local and remote sessions
 if [[ -n $SSH_CONNECTION ]]; then
-  export EDITOR='emacs -nw'
+  export EDITOR="emacsclient -t -a ''"
 else
-  export EDITOR='emacs'
+  export EDITOR="emacsclient -c -a emacs"
 fi
 
 # Compilation flags
@@ -87,6 +87,7 @@ alias copy='xclip -selection clipboard'
 
 #emacs
 alias em="emacs -nw"
+alias emacs="emacsclient.sh"
 alias doomsync="~/.emacs.d/bin/doom sync"
 alias doomdoctor="~/.emacs.d/bin/doom doctor"
 alias doomupgrade="~/.emacs.d/bin/doom upgrade"
@@ -100,4 +101,7 @@ alias l.='exa -a | egrep "^\."'
 
 # show renderd markdown
 alias mrkd='grip -b'
+
+#quemu-ems-xtensa 2 qemu-system-xtensa
+alias qemu-system-xtensa='qemu-esp-xtensa'
 neofetch
